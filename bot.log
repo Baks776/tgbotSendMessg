@@ -1,0 +1,1264 @@
+2025-04-09 01:47:46,760 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 01:47:46,925 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 01:47:47,632 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 01:47:47,632 - __main__ - INFO - Бот запущен
+2025-04-09 01:47:47,633 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 01:47:48,529 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 01:48:12,133 - aiogram.event - INFO - Update id=557957576 is handled. Duration 500 ms by bot id=8153637987
+2025-04-09 01:48:31,378 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 01:48:33,723 - aiogram.event - INFO - Update id=557957577 is handled. Duration 578 ms by bot id=8153637987
+2025-04-09 01:48:35,022 - aiogram.event - INFO - Update id=557957578 is handled. Duration 358 ms by bot id=8153637987
+2025-04-09 01:48:40,460 - aiogram.event - INFO - Update id=557957579 is handled. Duration 155 ms by bot id=8153637987
+2025-04-09 01:48:45,760 - aiogram.event - INFO - Update id=557957580 is handled. Duration 297 ms by bot id=8153637987
+2025-04-09 01:48:48,588 - aiogram.event - INFO - Update id=557957581 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 01:48:56,238 - aiogram.event - INFO - Update id=557957582 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 01:49:02,082 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 01:49:05,315 - aiogram.event - INFO - Update id=557957583 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:49:08,829 - aiogram.event - INFO - Update id=557957584 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:49:16,957 - aiogram.event - INFO - Update id=557957585 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:51:30,278 - __main__ - ERROR - Ошибка: name 'client' is not defined
+2025-04-09 01:51:57,566 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 01:51:57,661 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 01:51:58,484 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 01:51:58,484 - __main__ - INFO - Бот запущен
+2025-04-09 01:51:58,484 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 01:51:59,325 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 01:52:04,055 - aiogram.event - INFO - Update id=557957586 is handled. Duration 515 ms by bot id=8153637987
+2025-04-09 01:52:05,481 - aiogram.event - INFO - Update id=557957587 is handled. Duration 328 ms by bot id=8153637987
+2025-04-09 01:52:12,010 - __main__ - ERROR - Ошибка в view_groups: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 01:52:12,105 - aiogram.event - INFO - Update id=557957588 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 01:52:20,220 - aiogram.event - INFO - Update id=557957589 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:26,103 - aiogram.event - INFO - Update id=557957590 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:27,516 - aiogram.event - INFO - Update id=557957591 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:28,690 - __main__ - ERROR - Ошибка в view_groups: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 01:52:28,810 - aiogram.event - INFO - Update id=557957592 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 01:52:29,343 - aiogram.event - INFO - Update id=557957593 is handled. Duration 359 ms by bot id=8153637987
+2025-04-09 01:52:30,372 - aiogram.event - INFO - Update id=557957594 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 01:52:31,157 - aiogram.event - INFO - Update id=557957595 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:31,394 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 01:52:34,032 - aiogram.event - INFO - Update id=557957596 is handled. Duration 297 ms by bot id=8153637987
+2025-04-09 01:52:34,917 - aiogram.event - INFO - Update id=557957597 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:36,029 - aiogram.event - INFO - Update id=557957598 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:37,081 - aiogram.event - INFO - Update id=557957599 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:37,808 - aiogram.event - INFO - Update id=557957600 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:38,515 - aiogram.event - INFO - Update id=557957601 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 01:52:59,243 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 01:53:32,559 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 01:53:59,097 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 01:54:31,903 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 01:54:59,003 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 01:55:01,482 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:03:36,699 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 02:03:36,884 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 02:03:37,867 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 02:03:37,867 - __main__ - INFO - Бот запущен
+2025-04-09 02:03:37,867 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 02:03:38,919 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 02:03:48,536 - aiogram.event - INFO - Update id=557957602 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 02:03:50,258 - aiogram.event - INFO - Update id=557957603 is handled. Duration 328 ms by bot id=8153637987
+2025-04-09 02:03:52,029 - aiogram.event - INFO - Update id=557957604 is handled. Duration 436 ms by bot id=8153637987
+2025-04-09 02:03:54,712 - aiogram.event - INFO - Update id=557957605 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 02:04:01,843 - aiogram.event - INFO - Update id=557957606 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:04:01,843 - aiogram.event - INFO - Update id=557957607 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:04:01,843 - aiogram.event - INFO - Update id=557957608 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:04:01,948 - aiogram.event - INFO - Update id=557957609 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:02,813 - aiogram.event - INFO - Update id=557957610 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:04:08,526 - aiogram.event - INFO - Update id=557957611 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 02:04:11,165 - aiogram.event - INFO - Update id=557957612 is handled. Duration 203 ms by bot id=8153637987
+2025-04-09 02:04:11,932 - aiogram.event - INFO - Update id=557957613 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:13,511 - aiogram.event - INFO - Update id=557957614 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:15,335 - aiogram.event - INFO - Update id=557957615 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:16,084 - aiogram.event - INFO - Update id=557957616 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:16,332 - aiogram.event - INFO - Update id=557957617 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:18,120 - aiogram.event - INFO - Update id=557957618 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:18,985 - aiogram.event - INFO - Update id=557957619 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:19,351 - aiogram.event - INFO - Update id=557957620 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:20,111 - aiogram.event - INFO - Update id=557957621 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:20,265 - aiogram.event - INFO - Update id=557957622 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:04:56,406 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 02:04:56,543 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 02:04:57,138 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 02:04:57,138 - __main__ - INFO - Бот запущен
+2025-04-09 02:04:57,153 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 02:04:57,921 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 02:05:02,463 - aiogram.event - INFO - Update id=557957623 is handled. Duration 390 ms by bot id=8153637987
+2025-04-09 02:05:03,437 - aiogram.event - INFO - Update id=557957624 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:05:04,825 - aiogram.event - INFO - Update id=557957625 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:05:05,119 - aiogram.event - INFO - Update id=557957626 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:05:05,376 - aiogram.event - INFO - Update id=557957627 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:05:06,436 - aiogram.event - INFO - Update id=557957628 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:05:08,447 - aiogram.event - INFO - Update id=557957629 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:05:08,696 - aiogram.event - INFO - Update id=557957630 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:08:18,796 - telethon.client.updates - INFO - Got difference for channel 1103688715 updates
+2025-04-09 02:08:18,944 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:09:19,221 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:10:18,704 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:10:18,901 - telethon.client.updates - INFO - Got difference for channel 1103688715 updates
+2025-04-09 02:13:58,400 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:14:58,347 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:16:58,414 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:19:58,421 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:31:05,051 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 02:31:05,156 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 02:31:05,756 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 02:31:05,756 - __main__ - INFO - Бот запущен
+2025-04-09 02:31:05,756 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 02:31:06,528 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 02:31:24,654 - aiogram.event - INFO - Update id=557957631 is handled. Duration 719 ms by bot id=8153637987
+2025-04-09 02:31:26,061 - aiogram.event - INFO - Update id=557957632 is handled. Duration 389 ms by bot id=8153637987
+2025-04-09 02:31:27,188 - aiogram.event - INFO - Update id=557957633 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 02:31:28,130 - aiogram.event - INFO - Update id=557957634 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:31:30,935 - aiogram.event - INFO - Update id=557957635 is handled. Duration 296 ms by bot id=8153637987
+2025-04-09 02:31:32,933 - aiogram.event - INFO - Update id=557957636 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:31:34,394 - aiogram.event - INFO - Update id=557957637 is handled. Duration 436 ms by bot id=8153637987
+2025-04-09 02:31:39,043 - aiogram.event - INFO - Update id=557957638 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:31:51,885 - aiogram.event - INFO - Update id=557957639 is handled. Duration 343 ms by bot id=8153637987
+2025-04-09 02:31:55,714 - aiogram.event - INFO - Update id=557957640 is handled. Duration 672 ms by bot id=8153637987
+2025-04-09 02:31:56,744 - aiogram.event - INFO - Update id=557957641 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 02:31:58,897 - aiogram.event - INFO - Update id=557957642 is handled. Duration 390 ms by bot id=8153637987
+2025-04-09 02:32:01,966 - aiogram.event - INFO - Update id=557957643 is handled. Duration 311 ms by bot id=8153637987
+2025-04-09 02:32:05,636 - aiogram.event - INFO - Update id=557957644 is handled. Duration 343 ms by bot id=8153637987
+2025-04-09 02:32:07,954 - aiogram.event - INFO - Update id=557957645 is handled. Duration 438 ms by bot id=8153637987
+2025-04-09 02:32:08,660 - aiogram.event - INFO - Update id=557957646 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:32:11,480 - aiogram.event - INFO - Update id=557957647 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:32:15,706 - aiogram.event - INFO - Update id=557957648 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 02:32:17,686 - aiogram.event - INFO - Update id=557957649 is handled. Duration 358 ms by bot id=8153637987
+2025-04-09 02:32:21,229 - __main__ - ERROR - Ошибка при отправке (попытка 1): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-09 02:32:26,344 - __main__ - ERROR - Ошибка при отправке (попытка 2): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-09 02:32:37,132 - __main__ - ERROR - Ошибка при отправке (попытка 3): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-09 02:32:37,680 - aiogram.event - INFO - Update id=557957650 is not handled. Duration 18156 ms by bot id=8153637987
+2025-04-09 02:32:37,680 - aiogram.event - ERROR - Cause exception while process update id=557957650 by bot id=8153637987
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\Documents\YouDO\project1.2\main7.py", line 642, in confirm_send
+    await callback_query.answer()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 29, in __call__
+    response = await self.router.propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+2025-04-09 02:33:03,471 - aiogram.event - INFO - Update id=557957651 is handled. Duration 202 ms by bot id=8153637987
+2025-04-09 02:33:10,418 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 02:33:12,563 - aiogram.event - INFO - Update id=557957652 is handled. Duration 311 ms by bot id=8153637987
+2025-04-09 02:33:14,240 - aiogram.event - INFO - Update id=557957653 is handled. Duration 311 ms by bot id=8153637987
+2025-04-09 02:34:03,080 - aiogram.event - INFO - Update id=557957654 is not handled. Duration 16 ms by bot id=8153637987
+2025-04-09 02:34:05,514 - aiogram.event - INFO - Update id=557957655 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:34:08,346 - aiogram.event - INFO - Update id=557957656 is not handled. Duration 14 ms by bot id=8153637987
+2025-04-09 02:34:12,597 - aiogram.event - INFO - Update id=557957657 is not handled. Duration 14 ms by bot id=8153637987
+2025-04-09 02:34:14,543 - aiogram.event - INFO - Update id=557957658 is handled. Duration 422 ms by bot id=8153637987
+2025-04-09 02:34:19,281 - aiogram.event - INFO - Update id=557957659 is handled. Duration 297 ms by bot id=8153637987
+2025-04-09 02:34:22,999 - aiogram.event - INFO - Update id=557957660 is handled. Duration 313 ms by bot id=8153637987
+2025-04-09 02:34:24,275 - aiogram.event - INFO - Update id=557957661 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:34:26,304 - aiogram.event - INFO - Update id=557957662 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:34:27,927 - aiogram.event - INFO - Update id=557957663 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:35:06,443 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:35:10,407 - telethon.client.updates - INFO - Got difference for channel 1103688715 updates
+2025-04-09 02:36:03,026 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 02:36:03,239 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 02:36:04,125 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 02:36:04,125 - __main__ - INFO - Бот запущен
+2025-04-09 02:36:04,125 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 02:36:05,081 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 02:36:05,306 - aiogram.event - INFO - Update id=557957664 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:36:07,375 - aiogram.event - INFO - Update id=557957665 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:36:08,359 - aiogram.event - INFO - Update id=557957666 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:36:10,930 - __main__ - ERROR - Ошибка в view_groups: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 02:36:11,328 - aiogram.event - INFO - Update id=557957667 is handled. Duration 766 ms by bot id=8153637987
+2025-04-09 02:36:13,451 - aiogram.event - INFO - Update id=557957668 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 02:36:15,148 - aiogram.event - INFO - Update id=557957669 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 02:36:16,753 - aiogram.event - INFO - Update id=557957670 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:36:18,655 - aiogram.event - INFO - Update id=557957671 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:36:25,224 - aiogram.event - INFO - Update id=557957672 is not handled. Duration 14 ms by bot id=8153637987
+2025-04-09 02:36:30,045 - aiogram.event - INFO - Update id=557957673 is handled. Duration 235 ms by bot id=8153637987
+2025-04-09 02:36:31,292 - aiogram.event - INFO - Update id=557957674 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 02:36:32,237 - aiogram.event - INFO - Update id=557957675 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 02:36:34,939 - aiogram.event - INFO - Update id=557957676 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 02:36:36,283 - aiogram.event - INFO - Update id=557957677 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 02:36:37,816 - aiogram.event - INFO - Update id=557957678 is handled. Duration 593 ms by bot id=8153637987
+2025-04-09 02:36:51,210 - aiogram.event - INFO - Update id=557957679 is handled. Duration 219 ms by bot id=8153637987
+2025-04-09 02:37:09,848 - aiogram.event - INFO - Update id=557957680 is not handled. Duration 61 ms by bot id=8153637987
+2025-04-09 02:37:18,862 - aiogram.event - INFO - Update id=557957681 is handled. Duration 452 ms by bot id=8153637987
+2025-04-09 02:37:21,281 - aiogram.event - INFO - Update id=557957682 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:37:24,520 - aiogram.event - INFO - Update id=557957683 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 02:37:25,897 - aiogram.event - INFO - Update id=557957684 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 02:37:34,813 - aiogram.event - INFO - Update id=557957685 is handled. Duration 186 ms by bot id=8153637987
+2025-04-09 02:37:37,903 - aiogram.event - INFO - Update id=557957686 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:37:43,240 - aiogram.event - INFO - Update id=557957687 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:37:44,346 - aiogram.event - INFO - Update id=557957688 is not handled. Duration 14 ms by bot id=8153637987
+2025-04-09 02:37:45,699 - aiogram.event - INFO - Update id=557957689 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:37:47,112 - aiogram.event - INFO - Update id=557957690 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 02:37:48,976 - aiogram.event - INFO - Update id=557957691 is handled. Duration 531 ms by bot id=8153637987
+2025-04-09 02:37:52,440 - aiogram.event - INFO - Update id=557957692 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 02:37:54,368 - aiogram.event - INFO - Update id=557957693 is handled. Duration 359 ms by bot id=8153637987
+2025-04-09 02:37:57,555 - aiogram.event - INFO - Update id=557957694 is handled. Duration 328 ms by bot id=8153637987
+2025-04-09 02:38:22,323 - aiogram.event - INFO - Update id=557957695 is handled. Duration 405 ms by bot id=8153637987
+2025-04-09 02:38:23,507 - aiogram.event - INFO - Update id=557957696 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:38:24,942 - aiogram.event - INFO - Update id=557957697 is not handled. Duration 14 ms by bot id=8153637987
+2025-04-09 02:38:27,030 - aiogram.event - INFO - Update id=557957698 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:38:28,213 - aiogram.event - INFO - Update id=557957699 is handled. Duration 235 ms by bot id=8153637987
+2025-04-09 02:38:30,671 - aiogram.event - INFO - Update id=557957700 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:38:32,305 - aiogram.event - INFO - Update id=557957701 is handled. Duration 203 ms by bot id=8153637987
+2025-04-09 02:38:33,225 - aiogram.event - INFO - Update id=557957702 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:38:34,279 - aiogram.event - INFO - Update id=557957703 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:38:35,432 - aiogram.event - INFO - Update id=557957704 is handled. Duration 313 ms by bot id=8153637987
+2025-04-09 02:39:20,730 - aiogram.event - INFO - Update id=557957705 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:39:22,173 - aiogram.event - INFO - Update id=557957706 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:39:23,833 - __main__ - ERROR - Ошибка в view_groups: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 02:39:24,088 - aiogram.event - INFO - Update id=557957707 is handled. Duration 610 ms by bot id=8153637987
+2025-04-09 02:40:47,949 - aiogram.event - INFO - Update id=557957708 is handled. Duration 546 ms by bot id=8153637987
+2025-04-09 02:40:55,125 - aiogram.event - INFO - Update id=557957709 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:40:57,477 - aiogram.event - INFO - Update id=557957710 is not handled. Duration 14 ms by bot id=8153637987
+2025-04-09 02:41:10,823 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 02:41:12,448 - aiogram.event - INFO - Update id=557957711 is handled. Duration 233 ms by bot id=8153637987
+2025-04-09 02:41:17,244 - aiogram.event - INFO - Update id=557957712 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:41:18,290 - aiogram.event - INFO - Update id=557957713 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 02:41:27,383 - aiogram.event - INFO - Update id=557957714 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 02:41:28,749 - aiogram.event - INFO - Update id=557957715 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 02:41:29,746 - aiogram.event - INFO - Update id=557957716 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 02:41:31,811 - aiogram.event - INFO - Update id=557957717 is handled. Duration 264 ms by bot id=8153637987
+2025-04-09 02:41:32,476 - aiogram.event - INFO - Update id=557957718 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:41:34,018 - aiogram.event - INFO - Update id=557957719 is not handled. Duration 15 ms by bot id=8153637987
+2025-04-09 02:41:35,347 - aiogram.event - INFO - Update id=557957720 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:41:36,938 - aiogram.event - INFO - Update id=557957721 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 02:41:45,955 - aiogram.event - INFO - Update id=557957722 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 02:41:49,056 - aiogram.event - INFO - Update id=557957723 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:41:56,445 - aiogram.event - INFO - Update id=557957724 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-09 02:41:57,696 - aiogram.event - INFO - Update id=557957725 is handled. Duration 218 ms by bot id=8153637987
+2025-04-09 02:42:06,796 - aiogram.event - INFO - Update id=557957726 is handled. Duration 531 ms by bot id=8153637987
+2025-04-09 02:42:12,308 - aiogram.event - INFO - Update id=557957727 is handled. Duration 203 ms by bot id=8153637987
+2025-04-09 02:42:13,365 - aiogram.event - INFO - Update id=557957728 is handled. Duration 218 ms by bot id=8153637987
+2025-04-09 02:42:14,940 - aiogram.event - INFO - Update id=557957729 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 02:42:16,486 - aiogram.event - INFO - Update id=557957730 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 02:42:40,577 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 02:42:40,757 - telethon.client.updates - INFO - Got difference for channel 1103688715 updates
+2025-04-09 02:59:19,157 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 02:59:19,277 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 02:59:19,850 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 02:59:19,850 - __main__ - INFO - Бот запущен
+2025-04-09 02:59:19,850 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 02:59:20,540 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 02:59:51,806 - aiogram.event - INFO - Update id=557957731 is handled. Duration 360 ms by bot id=8153637987
+2025-04-09 02:59:55,173 - aiogram.event - INFO - Update id=557957732 is handled. Duration 360 ms by bot id=8153637987
+2025-04-09 02:59:56,889 - aiogram.event - INFO - Update id=557957733 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 02:59:58,304 - aiogram.event - INFO - Update id=557957734 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 03:00:00,611 - aiogram.event - INFO - Update id=557957735 is handled. Duration 343 ms by bot id=8153637987
+2025-04-09 03:00:01,594 - aiogram.event - INFO - Update id=557957736 is handled. Duration 218 ms by bot id=8153637987
+2025-04-09 03:00:06,171 - aiogram.event - INFO - Update id=557957737 is handled. Duration 156 ms by bot id=8153637987
+2025-04-09 03:00:09,630 - aiogram.event - INFO - Update id=557957738 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 03:00:13,042 - aiogram.event - INFO - Update id=557957739 is handled. Duration 297 ms by bot id=8153637987
+2025-04-09 03:00:15,384 - aiogram.event - INFO - Update id=557957740 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 03:00:16,299 - aiogram.event - INFO - Update id=557957741 is handled. Duration 218 ms by bot id=8153637987
+2025-04-09 03:00:17,804 - aiogram.event - INFO - Update id=557957742 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 03:00:19,535 - aiogram.event - INFO - Update id=557957743 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 03:00:21,157 - aiogram.event - INFO - Update id=557957744 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 03:00:41,784 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 03:00:47,455 - aiogram.event - INFO - Update id=557957745 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 03:01:41,969 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:03:03,668 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:04:47,808 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 03:04:47,914 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 03:04:48,477 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 03:04:48,477 - __main__ - INFO - Бот запущен
+2025-04-09 03:04:48,477 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 03:04:49,134 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 03:04:49,769 - aiogram.event - INFO - Update id=557957746 is handled. Duration 390 ms by bot id=8153637987
+2025-04-09 03:04:52,195 - aiogram.event - INFO - Update id=557957747 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 03:04:53,232 - aiogram.event - INFO - Update id=557957748 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 03:04:54,371 - aiogram.event - INFO - Update id=557957749 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:05:08,165 - aiogram.event - INFO - Update id=557957750 is handled. Duration 202 ms by bot id=8153637987
+2025-04-09 03:05:11,355 - aiogram.event - INFO - Update id=557957751 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 03:05:12,535 - aiogram.event - INFO - Update id=557957752 is handled. Duration 202 ms by bot id=8153637987
+2025-04-09 03:05:13,818 - aiogram.event - INFO - Update id=557957753 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:05:16,728 - aiogram.event - INFO - Update id=557957754 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 03:05:20,068 - aiogram.event - INFO - Update id=557957755 is handled. Duration 264 ms by bot id=8153637987
+2025-04-09 03:05:26,789 - aiogram.event - INFO - Update id=557957756 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 03:05:27,869 - aiogram.event - INFO - Update id=557957757 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 03:05:28,933 - aiogram.event - INFO - Update id=557957758 is handled. Duration 218 ms by bot id=8153637987
+2025-04-09 03:05:32,216 - aiogram.event - INFO - Update id=557957759 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:05:40,685 - aiogram.event - INFO - Update id=557957760 is handled. Duration 343 ms by bot id=8153637987
+2025-04-09 03:05:42,026 - aiogram.event - INFO - Update id=557957761 is handled. Duration 156 ms by bot id=8153637987
+2025-04-09 03:05:45,066 - aiogram.event - INFO - Update id=557957762 is handled. Duration 421 ms by bot id=8153637987
+2025-04-09 03:05:46,181 - aiogram.event - INFO - Update id=557957763 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 03:05:47,017 - __main__ - ERROR - Ошибка в settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 03:05:47,113 - aiogram.event - INFO - Update id=557957764 is handled. Duration 109 ms by bot id=8153637987
+2025-04-09 03:05:48,458 - __main__ - ERROR - Ошибка в settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 03:05:48,585 - aiogram.event - INFO - Update id=557957765 is handled. Duration 156 ms by bot id=8153637987
+2025-04-09 03:05:53,776 - aiogram.event - INFO - Update id=557957766 is handled. Duration 343 ms by bot id=8153637987
+2025-04-09 03:05:59,395 - aiogram.event - INFO - Update id=557957767 is handled. Duration 328 ms by bot id=8153637987
+2025-04-09 03:06:00,785 - aiogram.event - INFO - Update id=557957768 is handled. Duration 202 ms by bot id=8153637987
+2025-04-09 03:06:02,257 - aiogram.event - INFO - Update id=557957769 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:06:03,405 - aiogram.event - INFO - Update id=557957770 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:06:05,699 - aiogram.event - INFO - Update id=557957771 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:06:06,976 - aiogram.event - INFO - Update id=557957772 is handled. Duration 218 ms by bot id=8153637987
+2025-04-09 03:06:13,480 - aiogram.event - INFO - Update id=557957773 is handled. Duration 343 ms by bot id=8153637987
+2025-04-09 03:06:16,232 - aiogram.event - INFO - Update id=557957774 is handled. Duration 202 ms by bot id=8153637987
+2025-04-09 03:06:18,167 - aiogram.event - INFO - Update id=557957775 is handled. Duration 359 ms by bot id=8153637987
+2025-04-09 03:06:19,442 - aiogram.event - INFO - Update id=557957776 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 03:06:23,235 - __main__ - ERROR - Ошибка при отправке (попытка 1): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-09 03:06:28,391 - __main__ - ERROR - Ошибка при отправке (попытка 2): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-09 03:06:38,483 - __main__ - ERROR - Ошибка при отправке (попытка 3): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-09 03:06:38,952 - aiogram.event - INFO - Update id=557957777 is not handled. Duration 17375 ms by bot id=8153637987
+2025-04-09 03:06:38,952 - aiogram.event - ERROR - Cause exception while process update id=557957777 by bot id=8153637987
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\Documents\YouDO\project1.2\main8.py", line 818, in confirm_send
+    await callback_query.answer()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 29, in __call__
+    response = await self.router.propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+2025-04-09 03:06:42,209 - aiogram.event - INFO - Update id=557957778 is handled. Duration 438 ms by bot id=8153637987
+2025-04-09 03:07:26,399 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 03:07:26,524 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:07:30,798 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 03:07:41,683 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 03:07:57,473 - aiogram.event - INFO - Update id=557957779 is handled. Duration 406 ms by bot id=8153637987
+2025-04-09 03:07:59,895 - aiogram.event - INFO - Update id=557957780 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 03:08:07,574 - aiogram.event - INFO - Update id=557957781 is handled. Duration 125 ms by bot id=8153637987
+2025-04-09 03:08:12,980 - aiogram.event - INFO - Update id=557957782 is handled. Duration 156 ms by bot id=8153637987
+2025-04-09 03:08:27,457 - aiogram.event - INFO - Update id=557957783 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 03:08:31,986 - aiogram.event - INFO - Update id=557957784 is handled. Duration 155 ms by bot id=8153637987
+2025-04-09 03:08:34,949 - aiogram.event - INFO - Update id=557957785 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:08:42,189 - aiogram.event - INFO - Update id=557957786 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 03:08:43,798 - aiogram.event - INFO - Update id=557957787 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:08:46,334 - aiogram.event - INFO - Update id=557957788 is handled. Duration 141 ms by bot id=8153637987
+2025-04-09 03:08:48,254 - aiogram.event - INFO - Update id=557957789 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 03:09:16,867 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 03:10:21,734 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:12:42,907 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 03:12:43,057 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 03:12:45,434 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 03:12:45,434 - __main__ - INFO - Бот запущен
+2025-04-09 03:12:45,434 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 03:12:46,160 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 03:12:46,908 - aiogram.event - INFO - Update id=557957790 is handled. Duration 500 ms by bot id=8153637987
+2025-04-09 03:12:48,830 - aiogram.event - INFO - Update id=557957791 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 03:13:11,125 - aiogram.event - INFO - Update id=557957792 is handled. Duration 436 ms by bot id=8153637987
+2025-04-09 03:13:15,373 - aiogram.event - INFO - Update id=557957793 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 03:13:19,738 - aiogram.event - INFO - Update id=557957794 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:13:31,339 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 03:13:31,962 - telethon.client.updates - INFO - Got difference for channel 1319248631 updates
+2025-04-09 03:14:15,562 - aiogram.event - INFO - Update id=557957795 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 03:14:17,133 - aiogram.event - INFO - Update id=557957796 is handled. Duration 218 ms by bot id=8153637987
+2025-04-09 03:14:18,618 - aiogram.event - INFO - Update id=557957797 is handled. Duration 202 ms by bot id=8153637987
+2025-04-09 03:14:45,742 - __main__ - INFO - Начинаю запланированную отправку в 2 групп
+2025-04-09 03:14:48,436 - __main__ - INFO - Запланированная отправка завершена: успешно 2, ошибок 0
+2025-04-09 03:14:53,739 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 03:15:14,695 - aiogram.event - INFO - Update id=557957798 is handled. Duration 656 ms by bot id=8153637987
+2025-04-09 03:15:16,933 - aiogram.event - INFO - Update id=557957799 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 03:15:18,588 - aiogram.event - INFO - Update id=557957800 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 03:15:20,520 - aiogram.event - INFO - Update id=557957801 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:15:22,980 - aiogram.event - INFO - Update id=557957802 is handled. Duration 313 ms by bot id=8153637987
+2025-04-09 03:15:24,730 - aiogram.event - INFO - Update id=557957803 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 03:15:25,703 - aiogram.event - INFO - Update id=557957804 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 03:15:35,422 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:19:46,541 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:20:26,956 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-04-09 03:20:27,017 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 03:20:35,627 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10013] Connect call failed ('149.154.167.220', 443), [Errno 10013] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 03:20:35,631 - aiogram.dispatcher - WARNING - Sleep for 1.243152 seconds and try again... (tryings = 1, bot id = 8153637987)
+2025-04-09 03:20:36,308 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-04-09 03:20:36,326 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-04-09 03:20:36,328 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-04-09 03:20:36,337 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 03:20:36,344 - telethon.network.connection.connection - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-04-09 03:20:36,351 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10013] Connect call failed ('149.154.167.51', 443)
+2025-04-09 03:20:36,887 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10013] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10013] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 03:20:36,887 - aiogram.dispatcher - WARNING - Sleep for 1.582523 seconds and try again... (tryings = 2, bot id = 8153637987)
+2025-04-09 03:20:37,343 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10013] Connect call failed ('149.154.167.51', 443)
+2025-04-09 03:20:38,344 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10013] Connect call failed ('149.154.167.51', 443)
+2025-04-09 03:20:38,503 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10013] Connect call failed ('149.154.167.220', 443), [Errno 10013] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 03:20:38,505 - aiogram.dispatcher - WARNING - Sleep for 2.054043 seconds and try again... (tryings = 3, bot id = 8153637987)
+2025-04-09 03:20:39,357 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10013] Connect call failed ('149.154.167.51', 443)
+2025-04-09 03:20:40,360 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 03:20:40,560 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2025-04-09 03:20:40,560 - aiogram.dispatcher - WARNING - Sleep for 2.958249 seconds and try again... (tryings = 4, bot id = 8153637987)
+2025-04-09 03:20:42,865 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 03:20:45,392 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 1 with ConnectionError
+2025-04-09 03:20:46,396 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 03:20:46,515 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 03:20:54,195 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-04-09 03:20:54,196 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-04-09 03:20:54,198 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-04-09 03:20:54,198 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-04-09 03:20:54,199 - aiogram.dispatcher - WARNING - Sleep for 3.790429 seconds and try again... (tryings = 5, bot id = 8153637987)
+2025-04-09 03:20:54,200 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 03:20:54,201 - telethon.network.connection.connection - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-04-09 03:20:54,357 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 03:20:54,609 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:20:54,996 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 03:21:29,045 - aiogram.dispatcher - INFO - Connection established (tryings = 6, bot id = 8153637987)
+2025-04-09 03:22:16,012 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:26:00,473 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 03:29:46,665 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-09 03:29:53,911 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 03:36:46,929 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 11:54:14,776 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-04-09 11:54:14,821 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 11:54:15,864 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:54:17,878 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:54:19,905 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:54:21,938 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:54:23,954 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:54:25,974 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:54:26,974 - __main__ - ERROR - Ошибка при запуске бота: Connection to Telegram failed 5 time(s)
+2025-04-09 11:54:26,974 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-09 11:54:26,974 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-09 11:55:02,761 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-04-09 11:55:02,969 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 11:55:03,983 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:55:06,000 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:55:08,015 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:55:10,030 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:55:12,046 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:55:14,069 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:55:15,070 - __main__ - ERROR - Ошибка при запуске бота: Connection to Telegram failed 5 time(s)
+2025-04-09 11:55:15,071 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-09 11:55:15,071 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-09 11:56:37,816 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2025-04-09 11:56:37,906 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 11:56:38,929 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:56:40,961 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:56:42,994 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:56:45,006 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:56:47,040 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:56:49,073 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2025-04-09 11:56:50,073 - __main__ - ERROR - Ошибка при запуске бота: Connection to Telegram failed 5 time(s)
+2025-04-09 11:56:50,073 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-09 11:56:50,073 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-09 12:00:18,011 - __main__ - ERROR - РћС€РёР±РєР° РїСЂРё Р·Р°РїСѓСЃРєРµ Р±РѕС‚Р°: 'NoneType' object has no attribute 'start'
+2025-04-09 12:04:30,370 - __main__ - INFO - РџСЂРѕР±СѓРµРј РїСЂРѕРєСЃРё #1: socks5://user1:pass1@127.0.0.1:1080
+2025-04-09 12:04:30,385 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:04:31,404 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:33,418 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:35,435 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:37,438 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:39,447 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:41,456 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1080: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:42,463 - __main__ - WARNING - РџСЂРѕРєСЃРё #1 РЅРµ СЂР°Р±РѕС‚Р°РµС‚: Connection to Telegram failed 5 time(s)
+2025-04-09 12:04:42,463 - __main__ - INFO - РџСЂРѕР±СѓРµРј РїСЂРѕРєСЃРё #2: socks5://127.0.0.1:9050
+2025-04-09 12:04:42,463 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:04:43,488 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:45,516 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:47,549 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:49,586 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:51,614 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:53,650 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [WinError 10061] РџРѕРґРєР»СЋС‡РµРЅРёРµ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ, С‚.Рє. РєРѕРЅРµС‡РЅС‹Р№ РєРѕРјРїСЊСЋС‚РµСЂ РѕС‚РІРµСЂРі Р·Р°РїСЂРѕСЃ РЅР° РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:04:54,660 - __main__ - WARNING - РџСЂРѕРєСЃРё #2 РЅРµ СЂР°Р±РѕС‚Р°РµС‚: Connection to Telegram failed 5 time(s)
+2025-04-09 12:04:54,660 - __main__ - INFO - РџСЂРѕР±СѓРµРј РїСЂРѕРєСЃРё #3: http://user2:pass2@10.0.0.5:8080
+2025-04-09 12:04:54,660 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:05:04,663 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: ProxyConnectionError: Error connecting to HTTP proxy 10.0.0.5:8080: timed out
+2025-04-09 12:05:15,666 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: ProxyConnectionError: Error connecting to HTTP proxy 10.0.0.5:8080: timed out
+2025-04-09 12:05:26,682 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: ProxyConnectionError: Error connecting to HTTP proxy 10.0.0.5:8080: timed out
+2025-04-09 12:05:37,705 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: ProxyConnectionError: Error connecting to HTTP proxy 10.0.0.5:8080: timed out
+2025-04-09 12:05:48,710 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: ProxyConnectionError: Error connecting to HTTP proxy 10.0.0.5:8080: timed out
+2025-04-09 12:05:59,710 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: ProxyConnectionError: Error connecting to HTTP proxy 10.0.0.5:8080: timed out
+2025-04-09 12:06:00,712 - __main__ - WARNING - РџСЂРѕРєСЃРё #3 РЅРµ СЂР°Р±РѕС‚Р°РµС‚: Connection to Telegram failed 5 time(s)
+2025-04-09 12:06:00,712 - __main__ - WARNING - РџСЂРѕРєСЃРё РЅРµ СЂР°Р±РѕС‚Р°СЋС‚, РїСЂРѕР±СѓРµРј РїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ Р±РµР· РЅРёС…
+2025-04-09 12:06:00,712 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:06:00,818 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 12:06:01,396 - __main__ - INFO - Telegram РєР»РёРµРЅС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 12:06:01,396 - __main__ - INFO - Р‘РѕС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 12:06:01,396 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 12:06:07,387 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 12:07:11,904 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 12:07:42,292 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:08:26,018 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:08:42,926 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 12:09:02,099 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:09:13,389 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:09:26,975 - aiogram.event - INFO - Update id=557957805 is handled. Duration 577 ms by bot id=8153637987
+2025-04-09 12:09:27,624 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:09:29,056 - aiogram.event - INFO - Update id=557957806 is handled. Duration 453 ms by bot id=8153637987
+2025-04-09 12:09:35,906 - aiogram.event - INFO - Update id=557957807 is handled. Duration 343 ms by bot id=8153637987
+2025-04-09 12:09:36,438 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:09:37,371 - aiogram.event - INFO - Update id=557957808 is handled. Duration 358 ms by bot id=8153637987
+2025-04-09 12:09:41,217 - aiogram.event - INFO - Update id=557957809 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 12:09:42,987 - aiogram.event - INFO - Update id=557957810 is handled. Duration 421 ms by bot id=8153637987
+2025-04-09 12:09:43,047 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:09:43,289 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 12:09:49,306 - __main__ - ERROR - РћС€РёР±РєР° РІ settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 12:09:49,396 - aiogram.event - INFO - Update id=557957811 is handled. Duration 125 ms by bot id=8153637987
+2025-04-09 12:09:53,410 - __main__ - ERROR - РћС€РёР±РєР° РІ show_stats: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 12:09:53,801 - aiogram.event - INFO - Update id=557957812 is handled. Duration 547 ms by bot id=8153637987
+2025-04-09 12:10:03,573 - __main__ - ERROR - РћС€РёР±РєР° РІ show_stats: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 12:10:03,766 - aiogram.event - INFO - Update id=557957813 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 12:10:08,122 - aiogram.event - INFO - Update id=557957814 is handled. Duration 390 ms by bot id=8153637987
+2025-04-09 12:10:08,692 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:10:11,141 - __main__ - ERROR - РћС€РёР±РєР° РІ settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 12:10:11,261 - aiogram.event - INFO - Update id=557957815 is handled. Duration 141 ms by bot id=8153637987
+2025-04-09 12:10:13,676 - __main__ - ERROR - РћС€РёР±РєР° РІ settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 12:10:13,886 - aiogram.event - INFO - Update id=557957816 is handled. Duration 219 ms by bot id=8153637987
+2025-04-09 12:10:18,976 - aiogram.event - INFO - Update id=557957817 is handled. Duration 234 ms by bot id=8153637987
+2025-04-09 12:10:20,656 - aiogram.event - INFO - Update id=557957818 is handled. Duration 281 ms by bot id=8153637987
+2025-04-09 12:10:21,657 - aiogram.event - INFO - Update id=557957819 is handled. Duration 218 ms by bot id=8153637987
+2025-04-09 12:10:22,778 - aiogram.event - INFO - Update id=557957820 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 12:10:23,707 - aiogram.event - INFO - Update id=557957821 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 12:10:37,483 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:10:42,964 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 12:10:43,160 - telethon.client.updates - INFO - Got difference for channel 1900312562 updates
+2025-04-09 12:11:13,971 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:11:43,395 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:12:11,927 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:13:03,280 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:13:30,739 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:14:03,067 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:15:02,221 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:17:02,309 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:18:02,318 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:18:51,161 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:20:02,375 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:21:02,328 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:21:55,389 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:22:02,302 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:22:26,847 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:22:45,478 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:23:02,420 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:24:02,598 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:24:44,093 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 12:24:44,863 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:25:02,460 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:25:43,745 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 12:25:43,958 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:25:44,246 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 12:25:44,461 - telethon.client.updates - INFO - Got difference for channel 1778660986 updates
+2025-04-09 12:26:02,364 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:26:59,749 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:27:00,297 - telethon.client.updates - INFO - Got difference for channel 1292964247 updates
+2025-04-09 12:27:53,404 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:28:02,482 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:28:58,637 - __main__ - WARNING - РџСЂРѕРєСЃРё РЅРµ СЂР°Р±РѕС‚Р°СЋС‚, РїСЂРѕР±СѓРµРј РїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ Р±РµР· РЅРёС…
+2025-04-09 12:28:58,637 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:28:58,746 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 12:29:00,020 - __main__ - INFO - Telegram РєР»РёРµРЅС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 12:29:00,020 - __main__ - INFO - Р‘РѕС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 12:29:00,020 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 12:29:01,379 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 12:29:44,414 - aiogram.event - INFO - Update id=557957822 is handled. Duration 422 ms by bot id=8153637987
+2025-04-09 12:29:48,717 - aiogram.event - INFO - Update id=557957823 is handled. Duration 1280 ms by bot id=8153637987
+2025-04-09 12:29:49,308 - aiogram.event - INFO - Update id=557957824 is handled. Duration 360 ms by bot id=8153637987
+2025-04-09 12:29:50,227 - aiogram.event - INFO - Update id=557957825 is handled. Duration 295 ms by bot id=8153637987
+2025-04-09 12:29:52,790 - __main__ - ERROR - РћС€РёР±РєР° РІ settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 12:29:52,899 - aiogram.event - INFO - Update id=557957826 is handled. Duration 125 ms by bot id=8153637987
+2025-04-09 12:29:55,131 - __main__ - ERROR - РћС€РёР±РєР° РІ settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 12:29:55,305 - aiogram.event - INFO - Update id=557957827 is handled. Duration 188 ms by bot id=8153637987
+2025-04-09 12:29:56,679 - __main__ - ERROR - РћС€РёР±РєР° РІ settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 12:29:56,872 - aiogram.event - INFO - Update id=557957828 is handled. Duration 202 ms by bot id=8153637987
+2025-04-09 12:29:58,259 - __main__ - ERROR - РћС€РёР±РєР° РІ show_stats: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 12:29:58,546 - aiogram.event - INFO - Update id=557957829 is handled. Duration 530 ms by bot id=8153637987
+2025-04-09 12:30:00,482 - aiogram.event - INFO - Update id=557957830 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 12:30:02,872 - aiogram.event - INFO - Update id=557957831 is handled. Duration 483 ms by bot id=8153637987
+2025-04-09 12:30:03,667 - aiogram.event - INFO - Update id=557957832 is handled. Duration 266 ms by bot id=8153637987
+2025-04-09 12:30:06,124 - aiogram.event - INFO - Update id=557957833 is handled. Duration 266 ms by bot id=8153637987
+2025-04-09 12:30:15,507 - aiogram.event - INFO - Update id=557957834 is handled. Duration 266 ms by bot id=8153637987
+2025-04-09 12:30:17,552 - aiogram.event - INFO - Update id=557957835 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 12:30:23,433 - __main__ - ERROR - РћС€РёР±РєР° РІ settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 12:30:23,543 - aiogram.event - INFO - Update id=557957836 is handled. Duration 125 ms by bot id=8153637987
+2025-04-09 12:31:01,056 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:31:05,928 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:31:39,851 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:32:07,059 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:32:36,744 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:33:00,486 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:33:36,300 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:33:36,465 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 12:34:00,421 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:34:06,293 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:34:35,901 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 12:34:36,122 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:34:36,299 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 12:36:01,313 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:36:01,702 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-09 12:37:01,044 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:38:00,505 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:39:00,670 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:40:00,708 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:41:00,652 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:42:00,881 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:42:34,211 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:42:48,442 - __main__ - ERROR - РћС€РёР±РєР° РІ show_help: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 12:42:52,083 - aiogram.event - INFO - Update id=557957837 is handled. Duration 7405 ms by bot id=8153637987
+2025-04-09 12:42:54,407 - aiogram.event - INFO - Update id=557957838 is handled. Duration 436 ms by bot id=8153637987
+2025-04-09 12:42:56,625 - aiogram.event - INFO - Update id=557957839 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 12:42:58,294 - aiogram.event - INFO - Update id=557957840 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 12:43:47,041 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:44:00,822 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:45:00,916 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:46:00,873 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:47:00,728 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:48:00,782 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:48:37,372 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:49:00,968 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:49:36,685 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 12:49:36,977 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:49:37,242 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 12:50:01,220 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:51:03,097 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-09 12:51:03,784 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:52:00,980 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 12:53:36,936 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-09 12:53:36,936 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 12:53:37,942 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:53:37,942 - aiogram.dispatcher - WARNING - Sleep for 1.488034 seconds and try again... (tryings = 1, bot id = 8153637987)
+2025-04-09 12:53:39,435 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:53:39,436 - aiogram.dispatcher - WARNING - Sleep for 1.793081 seconds and try again... (tryings = 2, bot id = 8153637987)
+2025-04-09 12:53:41,233 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:53:41,234 - aiogram.dispatcher - WARNING - Sleep for 2.389601 seconds and try again... (tryings = 3, bot id = 8153637987)
+2025-04-09 12:53:43,628 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:53:43,628 - aiogram.dispatcher - WARNING - Sleep for 3.192872 seconds and try again... (tryings = 4, bot id = 8153637987)
+2025-04-09 12:53:46,827 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:53:46,828 - aiogram.dispatcher - WARNING - Sleep for 4.181842 seconds and try again... (tryings = 5, bot id = 8153637987)
+2025-04-09 12:53:51,015 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:53:51,016 - aiogram.dispatcher - WARNING - Sleep for 4.837905 seconds and try again... (tryings = 6, bot id = 8153637987)
+2025-04-09 12:53:55,860 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:53:55,861 - aiogram.dispatcher - WARNING - Sleep for 5.091935 seconds and try again... (tryings = 7, bot id = 8153637987)
+2025-04-09 12:53:56,818 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 10054] РЈРґР°Р»РµРЅРЅС‹Р№ С…РѕСЃС‚ РїСЂРёРЅСѓРґРёС‚РµР»СЊРЅРѕ СЂР°Р·РѕСЂРІР°Р» СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРµ РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:53:56,820 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 10054] РЈРґР°Р»РµРЅРЅС‹Р№ С…РѕСЃС‚ РїСЂРёРЅСѓРґРёС‚РµР»СЊРЅРѕ СЂР°Р·РѕСЂРІР°Р» СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРµ РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:53:56,821 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-04-09 12:53:56,824 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:53:56,826 - telethon.network.connection.connection - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 10054] РЈРґР°Р»РµРЅРЅС‹Р№ С…РѕСЃС‚ РїСЂРёРЅСѓРґРёС‚РµР»СЊРЅРѕ СЂР°Р·РѕСЂРІР°Р» СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРµ РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 12:53:56,827 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:53:57,828 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:53:58,830 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:53:59,831 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:00,832 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:00,958 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:54:00,959 - aiogram.dispatcher - WARNING - Sleep for 5.066535 seconds and try again... (tryings = 8, bot id = 8153637987)
+2025-04-09 12:54:01,830 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:02,831 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 1 with ConnectionError
+2025-04-09 12:54:03,833 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:54:03,835 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:04,837 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:05,840 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:06,034 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:54:06,036 - aiogram.dispatcher - WARNING - Sleep for 4.938418 seconds and try again... (tryings = 9, bot id = 8153637987)
+2025-04-09 12:54:06,834 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:07,836 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:08,840 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:09,840 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 2 with ConnectionError
+2025-04-09 12:54:10,840 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:54:10,842 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:10,987 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:54:10,988 - aiogram.dispatcher - WARNING - Sleep for 4.970497 seconds and try again... (tryings = 10, bot id = 8153637987)
+2025-04-09 12:54:11,833 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:12,835 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:13,837 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:14,840 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:15,841 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:15,973 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:54:15,973 - aiogram.dispatcher - WARNING - Sleep for 4.950269 seconds and try again... (tryings = 11, bot id = 8153637987)
+2025-04-09 12:54:16,834 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 3 with ConnectionError
+2025-04-09 12:54:17,836 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:54:17,838 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:18,839 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:19,841 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:20,843 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:20,937 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:54:20,939 - aiogram.dispatcher - WARNING - Sleep for 4.979213 seconds and try again... (tryings = 12, bot id = 8153637987)
+2025-04-09 12:54:21,831 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:22,845 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:23,846 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 4 with ConnectionError
+2025-04-09 12:54:24,848 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 12:54:24,850 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:25,851 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:25,928 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:54:25,929 - aiogram.dispatcher - WARNING - Sleep for 4.947152 seconds and try again... (tryings = 13, bot id = 8153637987)
+2025-04-09 12:54:26,852 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:27,854 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:28,857 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:29,858 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 12:54:30,860 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 5 with ConnectionError
+2025-04-09 12:54:30,889 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:54:30,889 - aiogram.dispatcher - WARNING - Sleep for 5.062744 seconds and try again... (tryings = 14, bot id = 8153637987)
+2025-04-09 12:54:31,859 - telethon.network.mtprotosender - ERROR - Automatic reconnection failed 5 time(s)
+2025-04-09 12:54:31,861 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-09 12:54:31,861 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-09 12:54:31,866 - asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=ConnectionError('Connection to Telegram failed 5 time(s)')>
+ConnectionError: Connection to Telegram failed 5 time(s)
+2025-04-09 12:54:35,950 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:54:35,951 - aiogram.dispatcher - WARNING - Sleep for 4.975966 seconds and try again... (tryings = 15, bot id = 8153637987)
+2025-04-09 12:54:40,930 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:54:40,931 - aiogram.dispatcher - WARNING - Sleep for 4.827333 seconds and try again... (tryings = 16, bot id = 8153637987)
+2025-04-09 12:54:45,763 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:54:45,764 - aiogram.dispatcher - WARNING - Sleep for 5.008221 seconds and try again... (tryings = 17, bot id = 8153637987)
+2025-04-09 12:54:50,777 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:54:50,778 - aiogram.dispatcher - WARNING - Sleep for 4.999818 seconds and try again... (tryings = 18, bot id = 8153637987)
+2025-04-09 12:54:55,782 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:54:55,782 - aiogram.dispatcher - WARNING - Sleep for 5.141916 seconds and try again... (tryings = 19, bot id = 8153637987)
+2025-04-09 12:55:00,929 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:55:00,930 - aiogram.dispatcher - WARNING - Sleep for 4.933989 seconds and try again... (tryings = 20, bot id = 8153637987)
+2025-04-09 12:55:05,868 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:55:05,868 - aiogram.dispatcher - WARNING - Sleep for 4.861017 seconds and try again... (tryings = 21, bot id = 8153637987)
+2025-04-09 12:55:10,733 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:55:10,734 - aiogram.dispatcher - WARNING - Sleep for 4.963614 seconds and try again... (tryings = 22, bot id = 8153637987)
+2025-04-09 12:55:15,703 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:55:15,703 - aiogram.dispatcher - WARNING - Sleep for 5.012343 seconds and try again... (tryings = 23, bot id = 8153637987)
+2025-04-09 12:55:20,720 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:55:20,720 - aiogram.dispatcher - WARNING - Sleep for 4.996470 seconds and try again... (tryings = 24, bot id = 8153637987)
+2025-04-09 12:55:25,721 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:55:25,722 - aiogram.dispatcher - WARNING - Sleep for 5.065569 seconds and try again... (tryings = 25, bot id = 8153637987)
+2025-04-09 12:55:30,790 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:55:30,790 - aiogram.dispatcher - WARNING - Sleep for 4.876213 seconds and try again... (tryings = 26, bot id = 8153637987)
+2025-04-09 12:55:35,669 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:55:35,670 - aiogram.dispatcher - WARNING - Sleep for 5.020408 seconds and try again... (tryings = 27, bot id = 8153637987)
+2025-04-09 12:55:40,695 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:55:40,696 - aiogram.dispatcher - WARNING - Sleep for 5.030748 seconds and try again... (tryings = 28, bot id = 8153637987)
+2025-04-09 12:55:45,731 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:55:45,731 - aiogram.dispatcher - WARNING - Sleep for 4.920015 seconds and try again... (tryings = 29, bot id = 8153637987)
+2025-04-09 12:55:50,655 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:55:50,656 - aiogram.dispatcher - WARNING - Sleep for 4.949558 seconds and try again... (tryings = 30, bot id = 8153637987)
+2025-04-09 12:55:55,608 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:55:55,609 - aiogram.dispatcher - WARNING - Sleep for 4.851040 seconds and try again... (tryings = 31, bot id = 8153637987)
+2025-04-09 12:56:00,464 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:56:00,464 - aiogram.dispatcher - WARNING - Sleep for 5.116910 seconds and try again... (tryings = 32, bot id = 8153637987)
+2025-04-09 12:56:05,587 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:56:05,587 - aiogram.dispatcher - WARNING - Sleep for 5.105955 seconds and try again... (tryings = 33, bot id = 8153637987)
+2025-04-09 12:56:10,698 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:56:10,698 - aiogram.dispatcher - WARNING - Sleep for 5.037579 seconds and try again... (tryings = 34, bot id = 8153637987)
+2025-04-09 12:56:15,741 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:56:15,742 - aiogram.dispatcher - WARNING - Sleep for 4.985461 seconds and try again... (tryings = 35, bot id = 8153637987)
+2025-04-09 12:56:20,732 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:56:20,732 - aiogram.dispatcher - WARNING - Sleep for 5.054487 seconds and try again... (tryings = 36, bot id = 8153637987)
+2025-04-09 12:56:25,791 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:56:25,792 - aiogram.dispatcher - WARNING - Sleep for 5.193226 seconds and try again... (tryings = 37, bot id = 8153637987)
+2025-04-09 12:56:30,988 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:56:30,989 - aiogram.dispatcher - WARNING - Sleep for 4.983235 seconds and try again... (tryings = 38, bot id = 8153637987)
+2025-04-09 12:56:35,977 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:56:35,977 - aiogram.dispatcher - WARNING - Sleep for 4.968985 seconds and try again... (tryings = 39, bot id = 8153637987)
+2025-04-09 12:56:40,952 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:56:40,952 - aiogram.dispatcher - WARNING - Sleep for 4.959948 seconds and try again... (tryings = 40, bot id = 8153637987)
+2025-04-09 12:56:45,917 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:56:45,917 - aiogram.dispatcher - WARNING - Sleep for 5.023400 seconds and try again... (tryings = 41, bot id = 8153637987)
+2025-04-09 12:56:50,944 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:56:50,945 - aiogram.dispatcher - WARNING - Sleep for 5.345789 seconds and try again... (tryings = 42, bot id = 8153637987)
+2025-04-09 12:56:56,295 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 12:56:56,296 - aiogram.dispatcher - WARNING - Sleep for 4.834585 seconds and try again... (tryings = 43, bot id = 8153637987)
+2025-04-09 12:57:01,134 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 12:57:01,135 - aiogram.dispatcher - WARNING - Sleep for 5.151762 seconds and try again... (tryings = 44, bot id = 8153637987)
+2025-04-09 12:57:36,851 - aiogram.dispatcher - INFO - Connection established (tryings = 45, bot id = 8153637987)
+2025-04-09 13:24:39,371 - aiogram.event - INFO - Update id=557957841 is handled. Duration 1250 ms by bot id=8153637987
+2025-04-09 13:24:41,587 - aiogram.event - INFO - Update id=557957842 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 13:49:27,723 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 13:49:27,854 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 13:49:28,611 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 13:49:28,612 - __main__ - INFO - Бот запущен
+2025-04-09 13:49:28,612 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 13:49:29,552 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 13:50:33,981 - __main__ - ERROR - Ошибка в settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 13:50:34,299 - aiogram.event - INFO - Update id=557957843 is handled. Duration 359 ms by bot id=8153637987
+2025-04-09 13:50:39,991 - __main__ - ERROR - Ошибка в settings_menu: name 'get_settings_menu_kb' is not defined
+2025-04-09 13:50:40,201 - aiogram.event - INFO - Update id=557957844 is handled. Duration 219 ms by bot id=8153637987
+2025-04-09 13:53:41,025 - __main__ - WARNING - РџСЂРѕРєСЃРё РЅРµ СЂР°Р±РѕС‚Р°СЋС‚, РїСЂРѕР±СѓРµРј РїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ Р±РµР· РЅРёС…
+2025-04-09 13:53:41,031 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 13:53:41,145 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 13:53:41,897 - __main__ - INFO - Telegram РєР»РёРµРЅС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 13:53:41,897 - __main__ - INFO - Р‘РѕС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 13:53:41,898 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 13:53:42,580 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 13:53:46,298 - aiogram.event - INFO - Update id=557957845 is handled. Duration 688 ms by bot id=8153637987
+2025-04-09 13:53:48,629 - aiogram.event - INFO - Update id=557957846 is handled. Duration 375 ms by bot id=8153637987
+2025-04-09 13:54:14,778 - __main__ - ERROR - РћС€РёР±РєР° РІ show_help: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 13:54:15,081 - aiogram.event - INFO - Update id=557957847 is handled. Duration 750 ms by bot id=8153637987
+2025-04-09 13:54:16,876 - __main__ - ERROR - РћС€РёР±РєР° РІ show_help: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 13:54:17,152 - aiogram.event - INFO - Update id=557957848 is handled. Duration 421 ms by bot id=8153637987
+2025-04-09 13:54:19,324 - aiogram.event - INFO - Update id=557957849 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 13:54:20,868 - aiogram.event - INFO - Update id=557957850 is handled. Duration 296 ms by bot id=8153637987
+2025-04-09 13:54:22,491 - __main__ - ERROR - РћС€РёР±РєР° РІ show_help: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 13:54:22,795 - aiogram.event - INFO - Update id=557957851 is handled. Duration 578 ms by bot id=8153637987
+2025-04-09 13:54:24,901 - aiogram.event - INFO - Update id=557957852 is handled. Duration 264 ms by bot id=8153637987
+2025-04-09 13:54:26,492 - aiogram.event - INFO - Update id=557957853 is handled. Duration 327 ms by bot id=8153637987
+2025-04-09 13:54:27,437 - aiogram.event - INFO - Update id=557957854 is handled. Duration 407 ms by bot id=8153637987
+2025-04-09 13:54:32,860 - __main__ - ERROR - РћС€РёР±РєР° РІ show_help: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 13:54:33,291 - aiogram.event - INFO - Update id=557957855 is handled. Duration 641 ms by bot id=8153637987
+2025-04-09 13:54:47,158 - __main__ - WARNING - РџСЂРѕРєСЃРё РЅРµ СЂР°Р±РѕС‚Р°СЋС‚, РїСЂРѕР±СѓРµРј РїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ Р±РµР· РЅРёС…
+2025-04-09 13:54:47,169 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 13:54:47,260 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 13:54:47,809 - __main__ - INFO - Telegram РєР»РёРµРЅС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 13:54:47,809 - __main__ - INFO - Р‘РѕС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 13:54:47,809 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 13:54:48,452 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 13:54:50,069 - aiogram.event - INFO - Update id=557957856 is handled. Duration 625 ms by bot id=8153637987
+2025-04-09 13:54:52,159 - __main__ - ERROR - РћС€РёР±РєР° РІ show_help: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-09 13:54:52,395 - aiogram.event - INFO - Update id=557957857 is handled. Duration 389 ms by bot id=8153637987
+2025-04-09 13:55:24,790 - __main__ - WARNING - РџСЂРѕРєСЃРё РЅРµ СЂР°Р±РѕС‚Р°СЋС‚, РїСЂРѕР±СѓРµРј РїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ Р±РµР· РЅРёС…
+2025-04-09 13:55:24,797 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 13:55:24,897 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 13:55:25,498 - __main__ - INFO - Telegram РєР»РёРµРЅС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 13:55:25,499 - __main__ - INFO - Р‘РѕС‚ Р·Р°РїСѓС‰РµРЅ
+2025-04-09 13:55:25,500 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 13:55:26,127 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 13:55:26,853 - aiogram.event - INFO - Update id=557957858 is handled. Duration 515 ms by bot id=8153637987
+2025-04-09 14:10:26,181 - telethon.client.updates - INFO - Got difference for channel 1135818819 updates
+2025-04-09 14:10:26,341 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:11:26,932 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:12:26,830 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:13:26,906 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:14:27,081 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:15:27,826 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:15:58,053 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:16:29,618 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:16:58,157 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:17:26,830 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:17:58,118 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:18:56,746 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:19:26,910 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:22:27,011 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:23:27,135 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:26:27,234 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:27:27,344 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:28:27,344 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:29:27,438 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:30:27,343 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:31:27,453 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:32:11,568 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 14:32:45,365 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 10054] РЈРґР°Р»РµРЅРЅС‹Р№ С…РѕСЃС‚ РїСЂРёРЅСѓРґРёС‚РµР»СЊРЅРѕ СЂР°Р·РѕСЂРІР°Р» СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРµ РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 14:32:45,368 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 10054] РЈРґР°Р»РµРЅРЅС‹Р№ С…РѕСЃС‚ РїСЂРёРЅСѓРґРёС‚РµР»СЊРЅРѕ СЂР°Р·РѕСЂРІР°Р» СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРµ РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 14:32:45,369 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-04-09 14:32:45,372 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 14:32:45,376 - telethon.network.connection.connection - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 10054] РЈРґР°Р»РµРЅРЅС‹Р№ С…РѕСЃС‚ РїСЂРёРЅСѓРґРёС‚РµР»СЊРЅРѕ СЂР°Р·РѕСЂРІР°Р» СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРµ РїРѕРґРєР»СЋС‡РµРЅРёРµ
+2025-04-09 14:32:45,377 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:46,379 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:47,381 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:48,384 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:49,386 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:50,389 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:51,391 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 1 with ConnectionError
+2025-04-09 14:32:52,391 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 14:32:52,393 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:53,396 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:54,397 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:55,400 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:56,402 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:57,404 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:32:58,405 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 2 with ConnectionError
+2025-04-09 14:32:59,405 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 14:32:59,407 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:00,410 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:01,411 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:02,414 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:03,416 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:04,419 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:05,420 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 3 with ConnectionError
+2025-04-09 14:33:06,420 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 14:33:06,422 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:07,425 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:08,428 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:09,431 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:10,433 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:11,435 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:12,436 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 4 with ConnectionError
+2025-04-09 14:33:13,436 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 14:33:13,438 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:14,440 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:15,444 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:16,445 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:17,447 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:18,448 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: OSError: [Errno 10065] Connect call failed ('149.154.167.51', 443)
+2025-04-09 14:33:19,449 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 5 with ConnectionError
+2025-04-09 14:33:20,450 - telethon.network.mtprotosender - ERROR - Automatic reconnection failed 5 time(s)
+2025-04-09 14:33:20,451 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-04-09 14:33:20,456 - asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=ConnectionError('Connection to Telegram failed 5 time(s)')>
+ConnectionError: Connection to Telegram failed 5 time(s)
+2025-04-09 14:33:20,458 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-04-09 14:33:20,458 - telethon.client.updates - INFO - Cannot get difference since the network is down: ConnectionError: Connection to Telegram failed 5 time(s)
+2025-04-09 14:33:42,932 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-09 14:33:42,933 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 14:33:43,938 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:33:43,939 - aiogram.dispatcher - WARNING - Sleep for 1.468415 seconds and try again... (tryings = 1, bot id = 8153637987)
+2025-04-09 14:33:45,423 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:33:45,423 - aiogram.dispatcher - WARNING - Sleep for 1.789153 seconds and try again... (tryings = 2, bot id = 8153637987)
+2025-04-09 14:33:47,218 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:33:47,219 - aiogram.dispatcher - WARNING - Sleep for 2.410693 seconds and try again... (tryings = 3, bot id = 8153637987)
+2025-04-09 14:33:49,635 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:33:49,635 - aiogram.dispatcher - WARNING - Sleep for 2.997470 seconds and try again... (tryings = 4, bot id = 8153637987)
+2025-04-09 14:33:52,637 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:33:52,638 - aiogram.dispatcher - WARNING - Sleep for 3.902278 seconds and try again... (tryings = 5, bot id = 8153637987)
+2025-04-09 14:33:56,543 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:33:56,544 - aiogram.dispatcher - WARNING - Sleep for 4.887227 seconds and try again... (tryings = 6, bot id = 8153637987)
+2025-04-09 14:34:01,435 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:34:01,436 - aiogram.dispatcher - WARNING - Sleep for 5.148253 seconds and try again... (tryings = 7, bot id = 8153637987)
+2025-04-09 14:34:06,587 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:34:06,587 - aiogram.dispatcher - WARNING - Sleep for 4.976731 seconds and try again... (tryings = 8, bot id = 8153637987)
+2025-04-09 14:34:11,568 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:34:11,569 - aiogram.dispatcher - WARNING - Sleep for 5.056494 seconds and try again... (tryings = 9, bot id = 8153637987)
+2025-04-09 14:34:16,629 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:34:16,630 - aiogram.dispatcher - WARNING - Sleep for 4.856516 seconds and try again... (tryings = 10, bot id = 8153637987)
+2025-04-09 14:34:21,491 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:34:21,492 - aiogram.dispatcher - WARNING - Sleep for 4.923901 seconds and try again... (tryings = 11, bot id = 8153637987)
+2025-04-09 14:34:26,419 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:34:26,420 - aiogram.dispatcher - WARNING - Sleep for 5.048390 seconds and try again... (tryings = 12, bot id = 8153637987)
+2025-04-09 14:34:31,474 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:34:31,474 - aiogram.dispatcher - WARNING - Sleep for 5.214194 seconds and try again... (tryings = 13, bot id = 8153637987)
+2025-04-09 14:34:36,693 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:34:36,694 - aiogram.dispatcher - WARNING - Sleep for 4.944892 seconds and try again... (tryings = 14, bot id = 8153637987)
+2025-04-09 14:34:41,643 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:34:41,643 - aiogram.dispatcher - WARNING - Sleep for 4.948405 seconds and try again... (tryings = 15, bot id = 8153637987)
+2025-04-09 14:34:46,597 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:34:46,598 - aiogram.dispatcher - WARNING - Sleep for 4.944776 seconds and try again... (tryings = 16, bot id = 8153637987)
+2025-04-09 14:34:51,547 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:34:51,547 - aiogram.dispatcher - WARNING - Sleep for 4.939177 seconds and try again... (tryings = 17, bot id = 8153637987)
+2025-04-09 14:34:56,489 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:34:56,490 - aiogram.dispatcher - WARNING - Sleep for 5.051100 seconds and try again... (tryings = 18, bot id = 8153637987)
+2025-04-09 14:35:01,547 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:35:01,547 - aiogram.dispatcher - WARNING - Sleep for 4.851224 seconds and try again... (tryings = 19, bot id = 8153637987)
+2025-04-09 14:35:06,404 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:35:06,405 - aiogram.dispatcher - WARNING - Sleep for 4.858867 seconds and try again... (tryings = 20, bot id = 8153637987)
+2025-04-09 14:35:11,268 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:35:11,269 - aiogram.dispatcher - WARNING - Sleep for 5.045369 seconds and try again... (tryings = 21, bot id = 8153637987)
+2025-04-09 14:35:16,318 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:35:16,319 - aiogram.dispatcher - WARNING - Sleep for 5.071390 seconds and try again... (tryings = 22, bot id = 8153637987)
+2025-04-09 14:35:21,396 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:35:21,397 - aiogram.dispatcher - WARNING - Sleep for 5.027491 seconds and try again... (tryings = 23, bot id = 8153637987)
+2025-04-09 14:35:26,428 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:35:26,429 - aiogram.dispatcher - WARNING - Sleep for 5.015658 seconds and try again... (tryings = 24, bot id = 8153637987)
+2025-04-09 14:35:31,448 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:35:31,449 - aiogram.dispatcher - WARNING - Sleep for 4.767077 seconds and try again... (tryings = 25, bot id = 8153637987)
+2025-04-09 14:35:36,220 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:35:36,221 - aiogram.dispatcher - WARNING - Sleep for 4.799823 seconds and try again... (tryings = 26, bot id = 8153637987)
+2025-04-09 14:35:41,025 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:35:41,025 - aiogram.dispatcher - WARNING - Sleep for 4.927385 seconds and try again... (tryings = 27, bot id = 8153637987)
+2025-04-09 14:35:45,956 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:35:45,957 - aiogram.dispatcher - WARNING - Sleep for 4.929179 seconds and try again... (tryings = 28, bot id = 8153637987)
+2025-04-09 14:35:50,890 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:35:50,891 - aiogram.dispatcher - WARNING - Sleep for 5.143713 seconds and try again... (tryings = 29, bot id = 8153637987)
+2025-04-09 14:35:56,039 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:35:56,039 - aiogram.dispatcher - WARNING - Sleep for 4.792601 seconds and try again... (tryings = 30, bot id = 8153637987)
+2025-04-09 14:36:00,836 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:36:00,837 - aiogram.dispatcher - WARNING - Sleep for 5.015025 seconds and try again... (tryings = 31, bot id = 8153637987)
+2025-04-09 14:36:05,856 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:36:05,857 - aiogram.dispatcher - WARNING - Sleep for 4.746095 seconds and try again... (tryings = 32, bot id = 8153637987)
+2025-04-09 14:36:10,608 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:36:10,608 - aiogram.dispatcher - WARNING - Sleep for 5.063226 seconds and try again... (tryings = 33, bot id = 8153637987)
+2025-04-09 14:36:15,677 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:36:15,677 - aiogram.dispatcher - WARNING - Sleep for 4.818717 seconds and try again... (tryings = 34, bot id = 8153637987)
+2025-04-09 14:36:20,500 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:36:20,501 - aiogram.dispatcher - WARNING - Sleep for 4.909023 seconds and try again... (tryings = 35, bot id = 8153637987)
+2025-04-09 14:36:25,414 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:36:25,415 - aiogram.dispatcher - WARNING - Sleep for 4.839794 seconds and try again... (tryings = 36, bot id = 8153637987)
+2025-04-09 14:36:30,260 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:36:30,260 - aiogram.dispatcher - WARNING - Sleep for 4.953770 seconds and try again... (tryings = 37, bot id = 8153637987)
+2025-04-09 14:36:35,217 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:36:35,218 - aiogram.dispatcher - WARNING - Sleep for 4.925376 seconds and try again... (tryings = 38, bot id = 8153637987)
+2025-04-09 14:36:40,148 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:36:40,149 - aiogram.dispatcher - WARNING - Sleep for 4.915744 seconds and try again... (tryings = 39, bot id = 8153637987)
+2025-04-09 14:36:45,067 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:36:45,068 - aiogram.dispatcher - WARNING - Sleep for 4.966086 seconds and try again... (tryings = 40, bot id = 8153637987)
+2025-04-09 14:36:50,038 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:36:50,039 - aiogram.dispatcher - WARNING - Sleep for 4.961017 seconds and try again... (tryings = 41, bot id = 8153637987)
+2025-04-09 14:36:55,003 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:36:55,004 - aiogram.dispatcher - WARNING - Sleep for 5.111398 seconds and try again... (tryings = 42, bot id = 8153637987)
+2025-04-09 14:37:00,120 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:37:00,121 - aiogram.dispatcher - WARNING - Sleep for 4.867656 seconds and try again... (tryings = 43, bot id = 8153637987)
+2025-04-09 14:37:04,993 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:37:04,993 - aiogram.dispatcher - WARNING - Sleep for 5.026481 seconds and try again... (tryings = 44, bot id = 8153637987)
+2025-04-09 14:37:10,024 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:37:10,025 - aiogram.dispatcher - WARNING - Sleep for 4.792952 seconds and try again... (tryings = 45, bot id = 8153637987)
+2025-04-09 14:37:14,823 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:37:14,824 - aiogram.dispatcher - WARNING - Sleep for 5.128849 seconds and try again... (tryings = 46, bot id = 8153637987)
+2025-04-09 14:37:19,957 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:37:19,958 - aiogram.dispatcher - WARNING - Sleep for 4.991224 seconds and try again... (tryings = 47, bot id = 8153637987)
+2025-04-09 14:37:24,952 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:37:24,953 - aiogram.dispatcher - WARNING - Sleep for 5.095179 seconds and try again... (tryings = 48, bot id = 8153637987)
+2025-04-09 14:37:30,038 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:37:30,038 - aiogram.dispatcher - WARNING - Sleep for 4.953618 seconds and try again... (tryings = 49, bot id = 8153637987)
+2025-04-09 14:37:34,996 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:37:34,997 - aiogram.dispatcher - WARNING - Sleep for 5.111317 seconds and try again... (tryings = 50, bot id = 8153637987)
+2025-04-09 14:37:40,111 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:37:40,112 - aiogram.dispatcher - WARNING - Sleep for 4.950678 seconds and try again... (tryings = 51, bot id = 8153637987)
+2025-04-09 14:37:45,068 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:37:45,069 - aiogram.dispatcher - WARNING - Sleep for 4.947887 seconds and try again... (tryings = 52, bot id = 8153637987)
+2025-04-09 14:37:50,022 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:37:50,022 - aiogram.dispatcher - WARNING - Sleep for 4.948557 seconds and try again... (tryings = 53, bot id = 8153637987)
+2025-04-09 14:37:54,977 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:37:54,978 - aiogram.dispatcher - WARNING - Sleep for 4.865993 seconds and try again... (tryings = 54, bot id = 8153637987)
+2025-04-09 14:37:59,849 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:37:59,850 - aiogram.dispatcher - WARNING - Sleep for 5.081356 seconds and try again... (tryings = 55, bot id = 8153637987)
+2025-04-09 14:38:04,938 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:38:04,938 - aiogram.dispatcher - WARNING - Sleep for 5.112914 seconds and try again... (tryings = 56, bot id = 8153637987)
+2025-04-09 14:38:10,057 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:38:10,057 - aiogram.dispatcher - WARNING - Sleep for 5.144213 seconds and try again... (tryings = 57, bot id = 8153637987)
+2025-04-09 14:38:15,206 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('149.154.167.220', 443), [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0)]
+2025-04-09 14:38:15,207 - aiogram.dispatcher - WARNING - Sleep for 4.926567 seconds and try again... (tryings = 58, bot id = 8153637987)
+2025-04-09 14:38:20,138 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [Errno 10065] Connect call failed ('2001:67c:4e8:f004::9', 443, 0, 0), [Errno 10065] Connect call failed ('149.154.167.220', 443)]
+2025-04-09 14:38:20,139 - aiogram.dispatcher - WARNING - Sleep for 4.891416 seconds and try again... (tryings = 59, bot id = 8153637987)
+2025-04-09 14:38:55,558 - aiogram.dispatcher - INFO - Connection established (tryings = 60, bot id = 8153637987)
+2025-04-09 15:09:28,074 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:09:28,116 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 15:09:33,495 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:09:33,495 - aiogram.dispatcher - WARNING - Sleep for 1.331863 seconds and try again... (tryings = 1, bot id = 8153637987)
+2025-04-09 15:09:39,391 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:09:39,391 - aiogram.dispatcher - WARNING - Sleep for 1.626072 seconds and try again... (tryings = 2, bot id = 8153637987)
+2025-04-09 15:09:43,021 - aiogram.dispatcher - INFO - Connection established (tryings = 3, bot id = 8153637987)
+2025-04-09 15:09:45,055 - aiogram.event - INFO - Update id=557957859 is handled. Duration 2015 ms by bot id=8153637987
+2025-04-09 15:09:45,629 - aiogram.event - INFO - Update id=557957860 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 15:09:45,715 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:09:45,715 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 15:09:48,716 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8153637987)
+2025-04-09 15:09:49,012 - aiogram.event - INFO - Update id=557957861 is handled. Duration 296 ms by bot id=8153637987
+2025-04-09 15:09:50,297 - aiogram.event - INFO - Update id=557957862 is handled. Duration 359 ms by bot id=8153637987
+2025-04-09 15:09:51,906 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:09:51,906 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 15:09:56,171 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8153637987)
+2025-04-09 15:09:56,434 - aiogram.event - INFO - Update id=557957863 is handled. Duration 265 ms by bot id=8153637987
+2025-04-09 15:09:57,840 - aiogram.event - INFO - Update id=557957864 is handled. Duration 328 ms by bot id=8153637987
+2025-04-09 15:09:58,712 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:09:58,712 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 15:10:03,938 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:03,938 - aiogram.dispatcher - WARNING - Sleep for 1.401687 seconds and try again... (tryings = 1, bot id = 8153637987)
+2025-04-09 15:10:07,849 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8153637987)
+2025-04-09 15:10:08,410 - aiogram.event - INFO - Update id=557957866 is handled. Duration 563 ms by bot id=8153637987
+2025-04-09 15:10:09,826 - aiogram.event - INFO - Update id=557957867 is handled. Duration 233 ms by bot id=8153637987
+2025-04-09 15:10:10,054 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:10,055 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 15:10:14,087 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8153637987)
+2025-04-09 15:10:14,367 - aiogram.event - INFO - Update id=557957869 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 15:10:15,305 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:15,305 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 15:10:17,627 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8153637987)
+2025-04-09 15:10:17,900 - __main__ - ERROR - РћС€РёР±РєР° РїСЂРё РѕС‚РїСЂР°РІРєРµ (РїРѕРїС‹С‚РєР° 1): Cannot send requests while disconnected
+2025-04-09 15:10:20,891 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:20,891 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8153637987)
+2025-04-09 15:10:22,897 - __main__ - ERROR - РћС€РёР±РєР° РїСЂРё РѕС‚РїСЂР°РІРєРµ (РїРѕРїС‹С‚РєР° 2): Cannot send requests while disconnected
+2025-04-09 15:10:27,034 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:27,034 - aiogram.dispatcher - WARNING - Sleep for 1.359460 seconds and try again... (tryings = 1, bot id = 8153637987)
+2025-04-09 15:10:32,898 - __main__ - ERROR - РћС€РёР±РєР° РїСЂРё РѕС‚РїСЂР°РІРєРµ (РїРѕРїС‹С‚РєР° 3): Cannot send requests while disconnected
+2025-04-09 15:10:32,899 - __main__ - ERROR - РћС€РёР±РєР° РїСЂРё РѕС‚РїСЂР°РІРєРµ (РїРѕРїС‹С‚РєР° 1): Cannot send requests while disconnected
+2025-04-09 15:10:34,041 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:34,041 - aiogram.dispatcher - WARNING - Sleep for 1.928886 seconds and try again... (tryings = 2, bot id = 8153637987)
+2025-04-09 15:10:37,896 - __main__ - ERROR - РћС€РёР±РєР° РїСЂРё РѕС‚РїСЂР°РІРєРµ (РїРѕРїС‹С‚РєР° 2): Cannot send requests while disconnected
+2025-04-09 15:10:42,125 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:42,125 - aiogram.dispatcher - WARNING - Sleep for 2.439464 seconds and try again... (tryings = 3, bot id = 8153637987)
+2025-04-09 15:10:47,897 - __main__ - ERROR - РћС€РёР±РєР° РїСЂРё РѕС‚РїСЂР°РІРєРµ (РїРѕРїС‹С‚РєР° 3): Cannot send requests while disconnected
+2025-04-09 15:10:48,168 - aiogram.event - INFO - Update id=557957870 is not handled. Duration 30531 ms by bot id=8153637987
+2025-04-09 15:10:48,170 - aiogram.event - ERROR - Cause exception while process update id=557957870 by bot id=8153637987
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\Documents\YouDO\project1.2\main8.py", line 861, in confirm_send
+    await callback_query.answer()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 29, in __call__
+    response = await self.router.propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+2025-04-09 15:10:51,543 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:51,543 - aiogram.dispatcher - WARNING - Sleep for 3.019111 seconds and try again... (tryings = 4, bot id = 8153637987)
+2025-04-09 15:10:59,752 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:10:59,753 - aiogram.dispatcher - WARNING - Sleep for 3.881109 seconds and try again... (tryings = 5, bot id = 8153637987)
+2025-04-09 15:11:07,881 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:11:07,881 - aiogram.dispatcher - WARNING - Sleep for 5.034038 seconds and try again... (tryings = 6, bot id = 8153637987)
+2025-04-09 15:11:17,161 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:11:17,161 - aiogram.dispatcher - WARNING - Sleep for 5.029893 seconds and try again... (tryings = 7, bot id = 8153637987)
+2025-04-09 15:11:26,466 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:11:26,466 - aiogram.dispatcher - WARNING - Sleep for 5.022029 seconds and try again... (tryings = 8, bot id = 8153637987)
+2025-04-09 15:11:36,921 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:11:36,921 - aiogram.dispatcher - WARNING - Sleep for 5.004914 seconds and try again... (tryings = 9, bot id = 8153637987)
+2025-04-09 15:11:50,361 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:11:50,361 - aiogram.dispatcher - WARNING - Sleep for 4.864949 seconds and try again... (tryings = 10, bot id = 8153637987)
+2025-04-09 15:12:00,849 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:12:00,849 - aiogram.dispatcher - WARNING - Sleep for 4.959343 seconds and try again... (tryings = 11, bot id = 8153637987)
+2025-04-09 15:12:09,803 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:12:09,804 - aiogram.dispatcher - WARNING - Sleep for 5.044885 seconds and try again... (tryings = 12, bot id = 8153637987)
+2025-04-09 15:12:19,121 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:12:19,121 - aiogram.dispatcher - WARNING - Sleep for 4.908780 seconds and try again... (tryings = 13, bot id = 8153637987)
+2025-04-09 15:12:29,240 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:12:29,240 - aiogram.dispatcher - WARNING - Sleep for 5.185614 seconds and try again... (tryings = 14, bot id = 8153637987)
+2025-04-09 15:12:39,829 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:12:39,829 - aiogram.dispatcher - WARNING - Sleep for 4.963267 seconds and try again... (tryings = 15, bot id = 8153637987)
+2025-04-09 15:12:50,048 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:12:50,048 - aiogram.dispatcher - WARNING - Sleep for 4.989076 seconds and try again... (tryings = 16, bot id = 8153637987)
+2025-04-09 15:13:00,520 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:13:00,520 - aiogram.dispatcher - WARNING - Sleep for 4.989275 seconds and try again... (tryings = 17, bot id = 8153637987)
+2025-04-09 15:13:10,765 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:13:10,766 - aiogram.dispatcher - WARNING - Sleep for 5.092471 seconds and try again... (tryings = 18, bot id = 8153637987)
+2025-04-09 15:13:21,246 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:13:21,246 - aiogram.dispatcher - WARNING - Sleep for 4.932973 seconds and try again... (tryings = 19, bot id = 8153637987)
+2025-04-09 15:13:31,640 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:13:31,640 - aiogram.dispatcher - WARNING - Sleep for 5.194767 seconds and try again... (tryings = 20, bot id = 8153637987)
+2025-04-09 15:13:42,017 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:13:42,017 - aiogram.dispatcher - WARNING - Sleep for 4.948537 seconds and try again... (tryings = 21, bot id = 8153637987)
+2025-04-09 15:13:52,404 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:13:52,404 - aiogram.dispatcher - WARNING - Sleep for 4.907727 seconds and try again... (tryings = 22, bot id = 8153637987)
+2025-04-09 15:14:02,665 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:14:02,665 - aiogram.dispatcher - WARNING - Sleep for 4.900117 seconds and try again... (tryings = 23, bot id = 8153637987)
+2025-04-09 15:14:12,929 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:14:12,930 - aiogram.dispatcher - WARNING - Sleep for 5.048801 seconds and try again... (tryings = 24, bot id = 8153637987)
+2025-04-09 15:14:23,241 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:14:23,242 - aiogram.dispatcher - WARNING - Sleep for 5.190646 seconds and try again... (tryings = 25, bot id = 8153637987)
+2025-04-09 15:14:33,878 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:14:33,879 - aiogram.dispatcher - WARNING - Sleep for 5.046775 seconds and try again... (tryings = 26, bot id = 8153637987)
+2025-04-09 15:14:44,231 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:14:44,232 - aiogram.dispatcher - WARNING - Sleep for 4.868425 seconds and try again... (tryings = 27, bot id = 8153637987)
+2025-04-09 15:14:54,280 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:14:54,282 - aiogram.dispatcher - WARNING - Sleep for 4.982238 seconds and try again... (tryings = 28, bot id = 8153637987)
+2025-04-09 15:15:04,459 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:15:04,459 - aiogram.dispatcher - WARNING - Sleep for 5.069232 seconds and try again... (tryings = 29, bot id = 8153637987)
+2025-04-09 15:15:14,641 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:15:14,641 - aiogram.dispatcher - WARNING - Sleep for 4.819829 seconds and try again... (tryings = 30, bot id = 8153637987)
+2025-04-09 15:15:24,756 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:15:24,756 - aiogram.dispatcher - WARNING - Sleep for 5.067677 seconds and try again... (tryings = 31, bot id = 8153637987)
+2025-04-09 15:15:34,920 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:15:34,920 - aiogram.dispatcher - WARNING - Sleep for 5.058450 seconds and try again... (tryings = 32, bot id = 8153637987)
+2025-04-09 15:15:45,403 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:15:45,403 - aiogram.dispatcher - WARNING - Sleep for 5.061578 seconds and try again... (tryings = 33, bot id = 8153637987)
+2025-04-09 15:15:55,721 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:15:55,721 - aiogram.dispatcher - WARNING - Sleep for 4.996034 seconds and try again... (tryings = 34, bot id = 8153637987)
+2025-04-09 15:16:06,201 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:16:06,201 - aiogram.dispatcher - WARNING - Sleep for 5.047844 seconds and try again... (tryings = 35, bot id = 8153637987)
+2025-04-09 15:16:16,450 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:16:16,450 - aiogram.dispatcher - WARNING - Sleep for 4.949505 seconds and try again... (tryings = 36, bot id = 8153637987)
+2025-04-09 15:16:26,711 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:16:26,711 - aiogram.dispatcher - WARNING - Sleep for 4.999489 seconds and try again... (tryings = 37, bot id = 8153637987)
+2025-04-09 15:16:36,920 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:16:36,920 - aiogram.dispatcher - WARNING - Sleep for 4.989609 seconds and try again... (tryings = 38, bot id = 8153637987)
+2025-04-09 15:16:47,256 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-09 15:16:47,256 - aiogram.dispatcher - WARNING - Sleep for 4.957132 seconds and try again... (tryings = 39, bot id = 8153637987)
