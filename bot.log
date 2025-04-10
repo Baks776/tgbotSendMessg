@@ -1262,3 +1262,820 @@ TypeError: errors_handler() missing 1 required positional argument: 'exception'
 2025-04-09 15:16:36,920 - aiogram.dispatcher - WARNING - Sleep for 4.989609 seconds and try again... (tryings = 38, bot id = 8153637987)
 2025-04-09 15:16:47,256 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
 2025-04-09 15:16:47,256 - aiogram.dispatcher - WARNING - Sleep for 4.957132 seconds and try again... (tryings = 39, bot id = 8153637987)
+2025-04-09 23:24:45,866 - __main__ - WARNING - Прокси не работают, пробуем подключиться без них
+2025-04-09 23:24:45,883 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-09 23:24:45,970 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-09 23:24:46,629 - __main__ - INFO - Telegram клиент запущен
+2025-04-09 23:24:46,629 - __main__ - INFO - Бот запущен
+2025-04-09 23:24:46,629 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 23:24:47,669 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-09 23:25:44,991 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:25:45,272 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 23:26:25,235 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:26:44,821 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:26:45,207 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 23:27:00,902 - aiogram.event - INFO - Update id=557957879 is handled. Duration 1686 ms by bot id=8153637987
+2025-04-09 23:27:01,590 - aiogram.event - INFO - Update id=557957880 is handled. Duration 360 ms by bot id=8153637987
+2025-04-09 23:27:03,334 - aiogram.event - INFO - Update id=557957881 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 23:27:04,739 - aiogram.event - INFO - Update id=557957882 is handled. Duration 233 ms by bot id=8153637987
+2025-04-09 23:27:06,140 - aiogram.event - INFO - Update id=557957883 is handled. Duration 235 ms by bot id=8153637987
+2025-04-09 23:27:07,143 - aiogram.event - INFO - Update id=557957884 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 23:27:08,801 - aiogram.event - INFO - Update id=557957885 is handled. Duration 282 ms by bot id=8153637987
+2025-04-09 23:27:12,107 - aiogram.event - INFO - Update id=557957886 is handled. Duration 217 ms by bot id=8153637987
+2025-04-09 23:27:12,736 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:27:14,159 - aiogram.event - INFO - Update id=557957887 is handled. Duration 250 ms by bot id=8153637987
+2025-04-09 23:27:31,700 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:27:44,841 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:27:50,428 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:28:14,452 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:28:14,610 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:28:14,760 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 23:28:45,220 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:28:50,486 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:29:14,614 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:29:14,725 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 23:29:18,091 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:29:25,707 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:29:32,090 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:29:44,875 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:29:51,697 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:30:08,876 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:30:14,259 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:30:14,413 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:30:24,919 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:30:33,225 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:30:38,796 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:30:45,454 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:30:46,296 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 23:30:46,460 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:30:46,865 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:30:52,464 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:30:54,797 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:00,866 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:07,866 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:09,815 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:13,126 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:17,117 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:23,498 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:26,986 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:38,100 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:42,791 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:31:44,210 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:31:51,740 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:32:04,636 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:32:51,955 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:33:44,110 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:33:50,756 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:34:12,833 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:34:42,470 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:34:51,770 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:35:51,975 - telethon.client.updates - INFO - Got difference for channel 1292964247 updates
+2025-04-09 23:35:52,245 - telethon.client.updates - INFO - Got difference for channel 1009082902 updates
+2025-04-09 23:35:52,463 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-09 23:35:52,861 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:36:01,460 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:36:06,901 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:36:51,719 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:37:13,313 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:37:26,729 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:37:52,651 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:07,431 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:13,356 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:18,285 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:32,910 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:39,360 - aiogram.event - INFO - Update id=557957888 is handled. Duration 844 ms by bot id=8153637987
+2025-04-09 23:38:39,998 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:41,092 - aiogram.event - INFO - Update id=557957889 is handled. Duration 235 ms by bot id=8153637987
+2025-04-09 23:38:41,660 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:43,000 - aiogram.event - INFO - Update id=557957890 is handled. Duration 233 ms by bot id=8153637987
+2025-04-09 23:38:44,732 - aiogram.event - INFO - Update id=557957891 is handled. Duration 311 ms by bot id=8153637987
+2025-04-09 23:38:46,114 - aiogram.event - INFO - Update id=557957892 is handled. Duration 405 ms by bot id=8153637987
+2025-04-09 23:38:46,412 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:47,654 - aiogram.event - INFO - Update id=557957893 is handled. Duration 233 ms by bot id=8153637987
+2025-04-09 23:38:52,000 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:38:56,094 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:39:18,106 - aiogram.event - INFO - Update id=557957894 is handled. Duration 483 ms by bot id=8153637987
+2025-04-09 23:39:26,743 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:39:38,565 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:39:46,075 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:39:56,765 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:40:11,275 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:40:12,670 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:40:12,815 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:40:12,956 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-09 23:40:25,362 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:40:26,366 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:40:45,741 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:40:57,105 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:41:45,534 - telethon.client.updates - INFO - Got difference for channel 1351639619 updates
+2025-04-09 23:41:46,281 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:41:59,923 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:42:58,052 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:43:54,121 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:43:57,580 - aiogram.event - INFO - Update id=557957895 is handled. Duration 547 ms by bot id=8153637987
+2025-04-09 23:43:59,467 - aiogram.event - INFO - Update id=557957896 is handled. Duration 438 ms by bot id=8153637987
+2025-04-09 23:44:04,940 - aiogram.event - INFO - Update id=557957897 is handled. Duration 233 ms by bot id=8153637987
+2025-04-09 23:44:05,532 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:44:08,873 - aiogram.event - INFO - Update id=557957898 is handled. Duration 219 ms by bot id=8153637987
+2025-04-09 23:44:10,864 - aiogram.event - INFO - Update id=557957899 is handled. Duration 219 ms by bot id=8153637987
+2025-04-09 23:44:13,435 - aiogram.event - INFO - Update id=557957900 is handled. Duration 469 ms by bot id=8153637987
+2025-04-09 23:44:14,748 - aiogram.event - INFO - Update id=557957901 is handled. Duration 530 ms by bot id=8153637987
+2025-04-09 23:44:18,446 - aiogram.event - INFO - Update id=557957902 is handled. Duration 311 ms by bot id=8153637987
+2025-04-09 23:44:22,310 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:44:23,121 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:44:34,800 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:44:54,070 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:44:57,834 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:45:04,370 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:45:06,690 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:45:06,809 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:45:11,120 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:45:19,185 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:45:19,339 - telethon.client.updates - INFO - Got difference for channel 1351639619 updates
+2025-04-09 23:45:23,160 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:45:38,407 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:45:40,570 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:45:53,777 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:45:57,645 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:46:46,959 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:46:57,802 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:47:06,241 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:47:15,911 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:47:16,391 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:47:19,340 - aiogram.event - INFO - Update id=557957903 is handled. Duration 405 ms by bot id=8153637987
+2025-04-09 23:47:19,920 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:47:20,540 - aiogram.event - INFO - Update id=557957904 is handled. Duration 391 ms by bot id=8153637987
+2025-04-09 23:47:26,227 - aiogram.event - INFO - Update id=557957905 is handled. Duration 295 ms by bot id=8153637987
+2025-04-09 23:47:26,835 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:47:36,030 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-09 23:47:46,510 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:48:16,599 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:48:48,129 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-09 23:49:57,929 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:50:52,757 - telethon.client.updates - INFO - Got difference for channel 1292964247 updates
+2025-04-09 23:50:53,644 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:51:58,382 - telethon.client.updates - INFO - Got difference for channel 1292964247 updates
+2025-04-09 23:51:59,249 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-09 23:52:47,315 - telethon.client.updates - INFO - Got difference for channel 1351639619 updates
+2025-04-09 23:52:47,511 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-09 23:52:47,854 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:52:48,043 - telethon.client.updates - INFO - Got difference for channel 1292964247 updates
+2025-04-09 23:52:53,210 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:53:05,922 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:53:06,261 - aiogram.event - INFO - Update id=557957906 is handled. Duration 485 ms by bot id=8153637987
+2025-04-09 23:53:07,994 - aiogram.event - INFO - Update id=557957907 is handled. Duration 391 ms by bot id=8153637987
+2025-04-09 23:53:09,260 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-09 23:53:09,470 - aiogram.event - INFO - Update id=557957908 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 23:53:13,213 - aiogram.event - INFO - Update id=557957909 is handled. Duration 1813 ms by bot id=8153637987
+2025-04-09 23:53:13,687 - aiogram.event - INFO - Update id=557957910 is handled. Duration 625 ms by bot id=8153637987
+2025-04-09 23:53:15,609 - aiogram.event - INFO - Update id=557957911 is handled. Duration 233 ms by bot id=8153637987
+2025-04-09 23:53:18,016 - aiogram.event - INFO - Update id=557957912 is handled. Duration 1000 ms by bot id=8153637987
+2025-04-09 23:53:18,810 - aiogram.event - INFO - Update id=557957913 is handled. Duration 547 ms by bot id=8153637987
+2025-04-09 23:53:19,840 - aiogram.event - INFO - Update id=557957914 is handled. Duration 280 ms by bot id=8153637987
+2025-04-09 23:53:24,303 - aiogram.event - INFO - Update id=557957916 is handled. Duration 266 ms by bot id=8153637987
+2025-04-09 23:53:24,642 - aiogram.event - INFO - Update id=557957915 is handled. Duration 1905 ms by bot id=8153637987
+2025-04-10 10:42:43,202 - __main__ - WARNING - Прокси не работают, пробуем подключиться без них
+2025-04-10 10:42:43,218 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-10 10:42:47,771 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-10 10:42:48,350 - __main__ - INFO - Telegram клиент запущен
+2025-04-10 10:42:48,350 - __main__ - INFO - Бот запущен
+2025-04-10 10:42:48,350 - aiogram.dispatcher - INFO - Start polling
+2025-04-10 10:42:49,171 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-10 10:42:49,756 - aiogram.event - INFO - Update id=557957917 is handled. Duration 391 ms by bot id=8153637987
+2025-04-10 10:42:50,194 - aiogram.event - INFO - Update id=557957918 is handled. Duration 640 ms by bot id=8153637987
+2025-04-10 10:47:30,044 - aiogram.event - INFO - Update id=557957919 is handled. Duration 608 ms by bot id=8153637987
+2025-04-10 10:48:47,546 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 10:48:48,294 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:49:49,220 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:50:13,095 - aiogram.event - INFO - Update id=557957920 is handled. Duration 484 ms by bot id=8153637987
+2025-04-10 10:50:43,528 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:51:19,963 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:51:49,616 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:52:09,871 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:52:54,431 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:53:22,844 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:53:55,168 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:54:05,027 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:54:07,821 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 10:54:08,010 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 10:54:24,633 - aiogram.event - INFO - Update id=557957921 is handled. Duration 531 ms by bot id=8153637987
+2025-04-10 10:54:26,857 - aiogram.event - INFO - Update id=557957922 is handled. Duration 343 ms by bot id=8153637987
+2025-04-10 10:54:51,321 - aiogram.event - INFO - Update id=557957923 is handled. Duration 500 ms by bot id=8153637987
+2025-04-10 10:54:54,389 - aiogram.event - INFO - Update id=557957924 is handled. Duration 265 ms by bot id=8153637987
+2025-04-10 10:55:04,499 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 10:55:10,676 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:55:25,680 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:55:34,560 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 10:55:34,924 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:55:48,564 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 10:55:57,315 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:56:35,017 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:56:35,259 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 10:56:49,671 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:57:05,222 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:57:37,523 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:57:37,766 - telethon.client.updates - INFO - Got difference for channel 1292964247 updates
+2025-04-10 10:57:38,005 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 10:57:38,194 - telethon.client.updates - INFO - Got difference for channel 1003313758 updates
+2025-04-10 10:57:38,395 - telethon.client.updates - INFO - Got difference for channel 2407515391 updates
+2025-04-10 10:58:05,412 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:58:22,259 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:58:39,470 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:58:39,655 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 10:59:04,999 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:59:24,386 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 10:59:24,764 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 10:59:24,965 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:59:34,912 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:59:58,455 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 10:59:58,472 - aiogram.event - INFO - Update id=557957925 is handled. Duration 921 ms by bot id=8153637987
+2025-04-10 10:59:58,647 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:00:06,995 - aiogram.event - INFO - Update id=557957926 is handled. Duration 327 ms by bot id=8153637987
+2025-04-10 11:00:13,913 - aiogram.event - INFO - Update id=557957927 is handled. Duration 452 ms by bot id=8153637987
+2025-04-10 11:00:21,070 - aiogram.event - INFO - Update id=557957928 is handled. Duration 234 ms by bot id=8153637987
+2025-04-10 11:00:22,472 - aiogram.event - INFO - Update id=557957929 is handled. Duration 296 ms by bot id=8153637987
+2025-04-10 11:00:30,185 - aiogram.event - INFO - Update id=557957930 is handled. Duration 344 ms by bot id=8153637987
+2025-04-10 11:00:32,899 - aiogram.event - INFO - Update id=557957931 is handled. Duration 343 ms by bot id=8153637987
+2025-04-10 11:00:35,684 - aiogram.event - INFO - Update id=557957932 is handled. Duration 328 ms by bot id=8153637987
+2025-04-10 11:00:36,919 - aiogram.event - INFO - Update id=557957933 is handled. Duration 265 ms by bot id=8153637987
+2025-04-10 11:00:39,441 - aiogram.event - INFO - Update id=557957934 is handled. Duration 281 ms by bot id=8153637987
+2025-04-10 11:00:40,047 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:01:08,164 - aiogram.event - INFO - Update id=557957935 is handled. Duration 500 ms by bot id=8153637987
+2025-04-10 11:01:14,392 - aiogram.event - INFO - Update id=557957936 is handled. Duration 234 ms by bot id=8153637987
+2025-04-10 11:01:15,774 - aiogram.event - INFO - Update id=557957937 is handled. Duration 234 ms by bot id=8153637987
+2025-04-10 11:01:19,155 - aiogram.event - INFO - Update id=557957938 is handled. Duration 265 ms by bot id=8153637987
+2025-04-10 11:01:21,328 - aiogram.event - INFO - Update id=557957939 is handled. Duration 125 ms by bot id=8153637987
+2025-04-10 11:01:27,655 - aiogram.event - INFO - Update id=557957940 is handled. Duration 484 ms by bot id=8153637987
+2025-04-10 11:01:37,248 - aiogram.event - INFO - Update id=557957941 is handled. Duration 500 ms by bot id=8153637987
+2025-04-10 11:01:45,378 - aiogram.event - INFO - Update id=557957942 is handled. Duration 359 ms by bot id=8153637987
+2025-04-10 11:01:48,582 - aiogram.event - INFO - Update id=557957943 is handled. Duration 234 ms by bot id=8153637987
+2025-04-10 11:01:50,280 - aiogram.event - INFO - Update id=557957944 is handled. Duration 375 ms by bot id=8153637987
+2025-04-10 11:01:54,511 - aiogram.event - INFO - Update id=557957945 is handled. Duration 344 ms by bot id=8153637987
+2025-04-10 11:01:55,657 - aiogram.event - INFO - Update id=557957946 is handled. Duration 234 ms by bot id=8153637987
+2025-04-10 11:01:58,425 - aiogram.event - INFO - Update id=557957947 is handled. Duration 219 ms by bot id=8153637987
+2025-04-10 11:01:59,393 - aiogram.event - INFO - Update id=557957948 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:02:00,881 - aiogram.event - INFO - Update id=557957949 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:02:16,914 - aiogram.event - INFO - Update id=557957950 is handled. Duration 468 ms by bot id=8153637987
+2025-04-10 11:02:19,172 - aiogram.event - INFO - Update id=557957951 is handled. Duration 233 ms by bot id=8153637987
+2025-04-10 11:02:22,492 - aiogram.event - INFO - Update id=557957952 is handled. Duration 327 ms by bot id=8153637987
+2025-04-10 11:02:23,005 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:02:31,766 - aiogram.event - INFO - Update id=557957954 is handled. Duration 531 ms by bot id=8153637987
+2025-04-10 11:02:31,936 - aiogram.event - INFO - Update id=557957953 is handled. Duration 4266 ms by bot id=8153637987
+2025-04-10 11:02:34,673 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:02:34,814 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:02:43,921 - aiogram.event - INFO - Update id=557957955 is handled. Duration 297 ms by bot id=8153637987
+2025-04-10 11:02:46,903 - aiogram.event - INFO - Update id=557957956 is handled. Duration 390 ms by bot id=8153637987
+2025-04-10 11:02:49,359 - aiogram.event - INFO - Update id=557957957 is handled. Duration 296 ms by bot id=8153637987
+2025-04-10 11:02:52,098 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:02:53,894 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:02:54,430 - aiogram.event - INFO - Update id=557957958 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:02:56,284 - aiogram.event - INFO - Update id=557957959 is handled. Duration 483 ms by bot id=8153637987
+2025-04-10 11:03:00,608 - aiogram.event - INFO - Update id=557957960 is handled. Duration 280 ms by bot id=8153637987
+2025-04-10 11:03:34,670 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:04:28,602 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:04:51,401 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:06:05,566 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:06:10,399 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:06:15,164 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:06:23,116 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:06:26,420 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:06:30,450 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:07:04,271 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:07:09,755 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:07:55,590 - __main__ - WARNING - Прокси не работают, пробуем подключиться без них
+2025-04-10 11:07:55,605 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-10 11:07:58,698 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-10 11:07:59,511 - __main__ - INFO - Telegram клиент запущен
+2025-04-10 11:07:59,511 - __main__ - INFO - Бот запущен
+2025-04-10 11:07:59,512 - aiogram.dispatcher - INFO - Start polling
+2025-04-10 11:08:00,601 - aiogram.dispatcher - INFO - Run polling for bot @ByteWaveSend_bot id=8153637987 - 'BotSenDMessageGroup1'
+2025-04-10 11:08:01,912 - aiogram.event - INFO - Update id=557957961 is handled. Duration 1125 ms by bot id=8153637987
+2025-04-10 11:08:39,794 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:09:00,187 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:09:06,386 - aiogram.event - INFO - Update id=557957962 is not handled. Duration 16 ms by bot id=8153637987
+2025-04-10 11:09:09,958 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:09:23,941 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:09:37,641 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:09:41,291 - aiogram.event - INFO - Update id=557957963 is handled. Duration 530 ms by bot id=8153637987
+2025-04-10 11:09:43,672 - aiogram.event - INFO - Update id=557957964 is handled. Duration 375 ms by bot id=8153637987
+2025-04-10 11:10:05,369 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:10:12,094 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:10:42,578 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:10:42,819 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:10:42,974 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:10:50,107 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:10:56,312 - aiogram.event - INFO - Update id=557957965 is handled. Duration 516 ms by bot id=8153637987
+2025-04-10 11:10:56,934 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:10:57,145 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:10:57,893 - aiogram.event - INFO - Update id=557957966 is handled. Duration 406 ms by bot id=8153637987
+2025-04-10 11:11:21,038 - aiogram.event - INFO - Update id=557957967 is handled. Duration 422 ms by bot id=8153637987
+2025-04-10 11:11:24,645 - aiogram.event - INFO - Update id=557957968 is handled. Duration 359 ms by bot id=8153637987
+2025-04-10 11:11:26,504 - aiogram.event - INFO - Update id=557957969 is handled. Duration 312 ms by bot id=8153637987
+2025-04-10 11:11:29,939 - aiogram.event - INFO - Update id=557957970 is handled. Duration 187 ms by bot id=8153637987
+2025-04-10 11:12:01,424 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:12:01,585 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:12:01,803 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:12:02,479 - telethon.client.updates - INFO - Got difference for channel 2407515391 updates
+2025-04-10 11:12:18,235 - aiogram.event - INFO - Update id=557957971 is handled. Duration 812 ms by bot id=8153637987
+2025-04-10 11:12:20,781 - aiogram.event - INFO - Update id=557957972 is handled. Duration 312 ms by bot id=8153637987
+2025-04-10 11:12:39,580 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:12:42,613 - aiogram.event - INFO - Update id=557957973 is handled. Duration 311 ms by bot id=8153637987
+2025-04-10 11:12:44,071 - aiogram.event - INFO - Update id=557957974 is handled. Duration 281 ms by bot id=8153637987
+2025-04-10 11:12:47,391 - aiogram.event - INFO - Update id=557957975 is handled. Duration 141 ms by bot id=8153637987
+2025-04-10 11:12:51,117 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:12:51,390 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:12:51,560 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:12:53,657 - aiogram.event - INFO - Update id=557957976 is handled. Duration 218 ms by bot id=8153637987
+2025-04-10 11:12:56,203 - aiogram.event - INFO - Update id=557957977 is handled. Duration 234 ms by bot id=8153637987
+2025-04-10 11:12:58,100 - aiogram.event - INFO - Update id=557957978 is handled. Duration 343 ms by bot id=8153637987
+2025-04-10 11:13:04,347 - aiogram.event - INFO - Update id=557957979 is handled. Duration 140 ms by bot id=8153637987
+2025-04-10 11:13:13,368 - aiogram.event - INFO - Update id=557957980 is handled. Duration 233 ms by bot id=8153637987
+2025-04-10 11:13:14,728 - aiogram.event - INFO - Update id=557957981 is handled. Duration 280 ms by bot id=8153637987
+2025-04-10 11:13:20,157 - aiogram.event - INFO - Update id=557957982 is handled. Duration 218 ms by bot id=8153637987
+2025-04-10 11:13:21,697 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:13:27,357 - aiogram.event - INFO - Update id=557957983 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-10 11:13:27,357 - aiogram.event - ERROR - Cause exception while process update id=557957983 by bot id=8153637987
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\Documents\YouDO\project1.2\main.py", line 651, in set_text_process
+    if message.text.startswith('/cancel'):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 29, in __call__
+    response = await self.router.propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+2025-04-10 11:13:34,387 - aiogram.event - INFO - Update id=557957984 is handled. Duration 125 ms by bot id=8153637987
+2025-04-10 11:13:35,914 - aiogram.event - INFO - Update id=557957985 is handled. Duration 280 ms by bot id=8153637987
+2025-04-10 11:13:37,697 - aiogram.event - INFO - Update id=557957986 is handled. Duration 375 ms by bot id=8153637987
+2025-04-10 11:13:43,555 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:13:44,248 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:13:45,537 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:13:50,923 - aiogram.event - INFO - Update id=557957987 is handled. Duration 233 ms by bot id=8153637987
+2025-04-10 11:13:54,308 - aiogram.event - INFO - Update id=557957988 is handled. Duration 219 ms by bot id=8153637987
+2025-04-10 11:13:58,160 - aiogram.event - INFO - Update id=557957989 is handled. Duration 187 ms by bot id=8153637987
+2025-04-10 11:14:04,508 - __main__ - ERROR - Ошибка при отправке (попытка 1): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-10 11:14:09,658 - __main__ - ERROR - Ошибка при отправке (попытка 2): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-10 11:14:18,254 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:14:19,784 - __main__ - ERROR - Ошибка при отправке (попытка 3): Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by SendMessageRequest)
+2025-04-10 11:14:20,167 - __main__ - ERROR - Ошибка при отправке (попытка 1): You can't write in this chat (caused by SendMessageRequest)
+2025-04-10 11:14:25,275 - __main__ - ERROR - Ошибка при отправке (попытка 2): You can't write in this chat (caused by SendMessageRequest)
+2025-04-10 11:14:27,196 - aiogram.event - INFO - Update id=557957991 is handled. Duration 390 ms by bot id=8153637987
+2025-04-10 11:14:28,694 - aiogram.event - INFO - Update id=557957992 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:14:32,012 - aiogram.event - INFO - Update id=557957993 is not handled. Duration 16 ms by bot id=8153637987
+2025-04-10 11:14:32,012 - aiogram.event - ERROR - Cause exception while process update id=557957993 by bot id=8153637987
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\Documents\YouDO\project1.2\main.py", line 651, in set_text_process
+    if message.text.startswith('/cancel'):
+AttributeError: 'NoneType' object has no attribute 'startswith'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 29, in __call__
+    response = await self.router.propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+2025-04-10 11:14:33,594 - aiogram.event - INFO - Update id=557957994 is handled. Duration 265 ms by bot id=8153637987
+2025-04-10 11:14:35,431 - __main__ - ERROR - Ошибка при отправке (попытка 3): You can't write in this chat (caused by SendMessageRequest)
+2025-04-10 11:14:35,777 - aiogram.event - INFO - Update id=557957990 is not handled. Duration 35562 ms by bot id=8153637987
+2025-04-10 11:14:35,778 - aiogram.event - ERROR - Cause exception while process update id=557957990 by bot id=8153637987
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\Documents\YouDO\project1.2\main.py", line 861, in confirm_send
+    await callback_query.answer()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 29, in __call__
+    response = await self.router.propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+2025-04-10 11:14:36,179 - aiogram.event - INFO - Update id=557957995 is handled. Duration 375 ms by bot id=8153637987
+2025-04-10 11:14:39,644 - aiogram.event - INFO - Update id=557957996 is handled. Duration 406 ms by bot id=8153637987
+2025-04-10 11:14:41,779 - aiogram.event - INFO - Update id=557957997 is handled. Duration 281 ms by bot id=8153637987
+2025-04-10 11:14:42,247 - aiogram.event - INFO - Update id=557957998 is handled. Duration 577 ms by bot id=8153637987
+2025-04-10 11:14:44,741 - aiogram.event - INFO - Update id=557957999 is handled. Duration 375 ms by bot id=8153637987
+2025-04-10 11:14:48,726 - aiogram.event - INFO - Update id=557958000 is handled. Duration 312 ms by bot id=8153637987
+2025-04-10 11:14:50,266 - aiogram.event - INFO - Update id=557958001 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:14:50,397 - aiogram.event - INFO - Update id=557958002 is handled. Duration 172 ms by bot id=8153637987
+2025-04-10 11:14:53,916 - aiogram.event - INFO - Update id=557958003 is handled. Duration 422 ms by bot id=8153637987
+2025-04-10 11:14:55,725 - aiogram.event - INFO - Update id=557958004 is handled. Duration 468 ms by bot id=8153637987
+2025-04-10 11:14:56,812 - aiogram.event - INFO - Update id=557958005 is handled. Duration 219 ms by bot id=8153637987
+2025-04-10 11:15:02,963 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:15:21,667 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:15:42,310 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:16:00,341 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:16:00,786 - aiogram.event - INFO - Update id=557958006 is handled. Duration 438 ms by bot id=8153637987
+2025-04-10 11:16:03,993 - aiogram.event - INFO - Update id=557958007 is handled. Duration 750 ms by bot id=8153637987
+2025-04-10 11:16:11,743 - aiogram.event - INFO - Update id=557958008 is handled. Duration 358 ms by bot id=8153637987
+2025-04-10 11:16:15,231 - aiogram.event - INFO - Update id=557958009 is handled. Duration 280 ms by bot id=8153637987
+2025-04-10 11:16:17,492 - aiogram.event - INFO - Update id=557958010 is handled. Duration 172 ms by bot id=8153637987
+2025-04-10 11:16:20,737 - aiogram.event - INFO - Update id=557958011 is handled. Duration 297 ms by bot id=8153637987
+2025-04-10 11:16:21,490 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:16:21,985 - aiogram.event - INFO - Update id=557958012 is handled. Duration 233 ms by bot id=8153637987
+2025-04-10 11:16:25,353 - aiogram.event - INFO - Update id=557958013 is handled. Duration 264 ms by bot id=8153637987
+2025-04-10 11:16:26,396 - aiogram.event - INFO - Update id=557958014 is handled. Duration 233 ms by bot id=8153637987
+2025-04-10 11:16:27,456 - aiogram.event - INFO - Update id=557958015 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:16:47,323 - aiogram.event - INFO - Update id=557958016 is handled. Duration 436 ms by bot id=8153637987
+2025-04-10 11:16:51,151 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:16:51,319 - telethon.client.updates - INFO - Got difference for channel 1279926928 updates
+2025-04-10 11:16:51,463 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:16:54,428 - aiogram.event - INFO - Update id=557958017 is handled. Duration 344 ms by bot id=8153637987
+2025-04-10 11:16:59,190 - aiogram.event - INFO - Update id=557958018 is handled. Duration 233 ms by bot id=8153637987
+2025-04-10 11:17:00,989 - aiogram.event - INFO - Update id=557958019 is handled. Duration 266 ms by bot id=8153637987
+2025-04-10 11:17:03,341 - aiogram.event - INFO - Update id=557958020 is handled. Duration 327 ms by bot id=8153637987
+2025-04-10 11:17:07,258 - aiogram.event - INFO - Update id=557958021 is handled. Duration 202 ms by bot id=8153637987
+2025-04-10 11:17:12,372 - __main__ - ERROR - Ошибка при отправке (попытка 1): Failed to parse message
+2025-04-10 11:17:12,947 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:17:17,374 - __main__ - ERROR - Ошибка при отправке (попытка 2): Failed to parse message
+2025-04-10 11:17:27,378 - __main__ - ERROR - Ошибка при отправке (попытка 3): Failed to parse message
+2025-04-10 11:17:27,378 - __main__ - ERROR - Ошибка при отправке (попытка 1): Failed to parse message
+2025-04-10 11:17:32,380 - __main__ - ERROR - Ошибка при отправке (попытка 2): Failed to parse message
+2025-04-10 11:17:41,898 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:17:42,383 - __main__ - ERROR - Ошибка при отправке (попытка 3): Failed to parse message
+2025-04-10 11:17:42,384 - __main__ - ERROR - Ошибка при отправке (попытка 1): Failed to parse message
+2025-04-10 11:17:47,390 - __main__ - ERROR - Ошибка при отправке (попытка 2): Failed to parse message
+2025-04-10 11:17:57,395 - __main__ - ERROR - Ошибка при отправке (попытка 3): Failed to parse message
+2025-04-10 11:17:57,395 - __main__ - ERROR - Ошибка при отправке (попытка 1): Failed to parse message
+2025-04-10 11:18:02,408 - __main__ - ERROR - Ошибка при отправке (попытка 2): Failed to parse message
+2025-04-10 11:18:12,421 - __main__ - ERROR - Ошибка при отправке (попытка 3): Failed to parse message
+2025-04-10 11:18:12,421 - __main__ - ERROR - Ошибка при отправке (попытка 1): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:18:17,431 - __main__ - ERROR - Ошибка при отправке (попытка 2): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:18:20,700 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:18:27,434 - __main__ - ERROR - Ошибка при отправке (попытка 3): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:18:27,867 - aiogram.event - INFO - Update id=557958022 is not handled. Duration 76016 ms by bot id=8153637987
+2025-04-10 11:18:27,867 - aiogram.event - ERROR - Cause exception while process update id=557958022 by bot id=8153637987
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\Documents\YouDO\project1.2\main.py", line 861, in confirm_send
+    await callback_query.answer()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 29, in __call__
+    response = await self.router.propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+2025-04-10 11:18:52,037 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:19:17,491 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:19:48,131 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:20:05,607 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:20:48,373 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:20:49,291 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:20:54,447 - aiogram.event - INFO - Update id=557958023 is handled. Duration 750 ms by bot id=8153637987
+2025-04-10 11:20:55,659 - aiogram.event - INFO - Update id=557958024 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:20:57,062 - aiogram.event - INFO - Update id=557958025 is handled. Duration 235 ms by bot id=8153637987
+2025-04-10 11:20:58,484 - aiogram.event - INFO - Update id=557958026 is handled. Duration 295 ms by bot id=8153637987
+2025-04-10 11:21:13,332 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:21:13,506 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:21:13,718 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:21:21,329 - aiogram.event - INFO - Update id=557958027 is handled. Duration 452 ms by bot id=8153637987
+2025-04-10 11:21:22,105 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:21:27,757 - aiogram.event - INFO - Update id=557958028 is handled. Duration 952 ms by bot id=8153637987
+2025-04-10 11:21:29,676 - aiogram.event - INFO - Update id=557958029 is handled. Duration 141 ms by bot id=8153637987
+2025-04-10 11:21:32,902 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:21:35,949 - aiogram.event - INFO - Update id=557958030 is handled. Duration 2000 ms by bot id=8153637987
+2025-04-10 11:21:37,517 - aiogram.event - INFO - Update id=557958031 is handled. Duration 125 ms by bot id=8153637987
+2025-04-10 11:21:44,390 - aiogram.event - INFO - Update id=557958032 is handled. Duration 172 ms by bot id=8153637987
+2025-04-10 11:21:54,657 - aiogram.event - INFO - Update id=557958033 is handled. Duration 405 ms by bot id=8153637987
+2025-04-10 11:22:03,164 - aiogram.event - INFO - Update id=557958034 is handled. Duration 358 ms by bot id=8153637987
+2025-04-10 11:22:03,872 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:22:04,675 - aiogram.event - INFO - Update id=557958035 is handled. Duration 266 ms by bot id=8153637987
+2025-04-10 11:22:08,683 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:22:08,831 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:22:09,173 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:22:37,792 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:22:43,036 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:22:57,626 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:23:02,463 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:23:21,020 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:23:41,014 - aiogram.event - INFO - Update id=557958036 is handled. Duration 469 ms by bot id=8153637987
+2025-04-10 11:23:43,050 - aiogram.event - INFO - Update id=557958037 is handled. Duration 500 ms by bot id=8153637987
+2025-04-10 11:23:43,536 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:23:47,429 - aiogram.event - INFO - Update id=557958038 is handled. Duration 266 ms by bot id=8153637987
+2025-04-10 11:23:51,132 - aiogram.event - INFO - Update id=557958039 is handled. Duration 202 ms by bot id=8153637987
+2025-04-10 11:23:53,055 - aiogram.event - INFO - Update id=557958040 is handled. Duration 313 ms by bot id=8153637987
+2025-04-10 11:23:55,922 - aiogram.event - INFO - Update id=557958041 is handled. Duration 188 ms by bot id=8153637987
+2025-04-10 11:24:00,988 - __main__ - ERROR - Ошибка при отправке (попытка 1): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:24:05,994 - __main__ - ERROR - Ошибка при отправке (попытка 2): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:24:08,183 - aiogram.event - INFO - Update id=557958043 is handled. Duration 219 ms by bot id=8153637987
+2025-04-10 11:24:10,501 - aiogram.event - INFO - Update id=557958044 is handled. Duration 311 ms by bot id=8153637987
+2025-04-10 11:24:11,769 - aiogram.event - INFO - Update id=557958045 is handled. Duration 233 ms by bot id=8153637987
+2025-04-10 11:24:13,246 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:24:13,397 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:24:13,562 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:24:13,584 - aiogram.event - INFO - Update id=557958046 is handled. Duration 297 ms by bot id=8153637987
+2025-04-10 11:24:15,152 - aiogram.event - INFO - Update id=557958047 is handled. Duration 405 ms by bot id=8153637987
+2025-04-10 11:24:15,997 - __main__ - ERROR - Ошибка при отправке (попытка 3): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:24:16,224 - aiogram.event - INFO - Update id=557958042 is not handled. Duration 17014 ms by bot id=8153637987
+2025-04-10 11:24:16,232 - aiogram.event - ERROR - Cause exception while process update id=557958042 by bot id=8153637987
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Baks\Documents\YouDO\project1.2\main.py", line 861, in confirm_send
+    await callback_query.answer()
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 29, in __call__
+    response = await self.router.propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Baks\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: errors_handler() missing 1 required positional argument: 'exception'
+2025-04-10 11:24:19,539 - aiogram.event - INFO - Update id=557958048 is handled. Duration 280 ms by bot id=8153637987
+2025-04-10 11:24:23,748 - aiogram.event - INFO - Update id=557958049 is handled. Duration 391 ms by bot id=8153637987
+2025-04-10 11:24:58,166 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:24:58,321 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:24:58,503 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:24:58,827 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:25:05,304 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:25:43,662 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:25:46,392 - aiogram.event - INFO - Update id=557958050 is handled. Duration 375 ms by bot id=8153637987
+2025-04-10 11:26:02,834 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:26:04,608 - aiogram.event - INFO - Update id=557958051 is handled. Duration 375 ms by bot id=8153637987
+2025-04-10 11:26:10,704 - aiogram.event - INFO - Update id=557958052 is handled. Duration 280 ms by bot id=8153637987
+2025-04-10 11:26:12,079 - aiogram.event - INFO - Update id=557958053 is handled. Duration 219 ms by bot id=8153637987
+2025-04-10 11:26:13,310 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:26:13,436 - aiogram.event - INFO - Update id=557958054 is handled. Duration 235 ms by bot id=8153637987
+2025-04-10 11:26:13,504 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:26:21,858 - aiogram.event - INFO - Update id=557958055 is handled. Duration 139 ms by bot id=8153637987
+2025-04-10 11:26:35,516 - aiogram.event - INFO - Update id=557958056 is not handled. Duration 0 ms by bot id=8153637987
+2025-04-10 11:26:48,485 - aiogram.event - INFO - Update id=557958057 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:26:54,877 - aiogram.event - INFO - Update id=557958058 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:26:56,323 - aiogram.event - INFO - Update id=557958059 is handled. Duration 108 ms by bot id=8153637987
+2025-04-10 11:26:58,675 - aiogram.event - INFO - Update id=557958060 is handled. Duration 219 ms by bot id=8153637987
+2025-04-10 11:27:03,720 - aiogram.event - INFO - Update id=557958061 is handled. Duration 344 ms by bot id=8153637987
+2025-04-10 11:27:05,273 - aiogram.event - INFO - Update id=557958062 is handled. Duration 250 ms by bot id=8153637987
+2025-04-10 11:27:17,675 - aiogram.event - INFO - Update id=557958063 is handled. Duration 204 ms by bot id=8153637987
+2025-04-10 11:27:32,372 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:27:32,592 - telethon.client.updates - INFO - Got difference for channel 1876898635 updates
+2025-04-10 11:28:40,506 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:28:40,616 - telethon.client.updates - INFO - Got difference for channel 1292964247 updates
+2025-04-10 11:28:40,772 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:28:40,973 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:28:41,139 - telethon.client.updates - INFO - Got difference for channel 1778660986 updates
+2025-04-10 11:29:01,605 - __main__ - INFO - Начинаю запланированную отправку в 2 групп
+2025-04-10 11:29:02,603 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:29:03,473 - __main__ - ERROR - Ошибка при отправке (попытка 1): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:29:08,474 - __main__ - ERROR - Ошибка при отправке (попытка 2): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:29:13,924 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:29:18,474 - __main__ - ERROR - Ошибка при отправке (попытка 3): Cannot find any entity corresponding to "https://t.me/fghggjjoljb
+@fghggjjoljb"
+2025-04-10 11:29:18,474 - __main__ - INFO - Запланированная отправка завершена: успешно 1, ошибок 1
+2025-04-10 11:29:38,185 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:30:03,015 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:31:03,348 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:31:03,635 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:33:38,150 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:34:05,314 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:34:48,019 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:34:48,302 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:35:34,949 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:36:40,661 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:37:03,146 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:37:08,834 - telethon.client.updates - INFO - Account is now banned in 2654097592 so we can no longer fetch updates from it
+2025-04-10 11:37:09,577 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:37:39,988 - telethon.client.updates - INFO - Got difference for channel 1315708798 updates
+2025-04-10 11:37:40,118 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:38:09,656 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:38:09,958 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:38:23,199 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:39:03,112 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:39:09,671 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-10 11:39:09,850 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:39:10,098 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:39:39,913 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:40:03,650 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:40:39,861 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:40:40,081 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:40:40,358 - telethon.client.updates - INFO - Got difference for channel 1464179087 updates
+2025-04-10 11:41:03,596 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:42:03,891 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:43:17,585 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:43:47,990 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:44:17,843 - telethon.client.updates - INFO - Got difference for channel 1013484985 updates
+2025-04-10 11:44:48,020 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:45:17,989 - telethon.client.updates - INFO - Got difference for channel 1490721219 updates
+2025-04-10 11:45:18,569 - telethon.client.updates - INFO - Got difference for channel 1003313758 updates
